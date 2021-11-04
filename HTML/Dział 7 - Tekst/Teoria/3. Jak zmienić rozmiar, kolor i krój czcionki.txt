@@ -1,0 +1,8 @@
+Za te funkcje odpowiada tag <font>.
+
+
+	- Aby zmienić rozmiar należy użyć atrybutu size="{rozmiar}"
+
+	- Aby zmienić kolor należy użyć atrybutu color="{kolor}"
+
+	- Aby zmienić krój należy użyć atrybutu face="{krój}"

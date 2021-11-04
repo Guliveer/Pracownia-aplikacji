@@ -1,0 +1,1 @@
+Blok (<div>) jest odpowiedzialny za wydzielenie pewnej części strony. Może zawierać w sobie wiele innych elementów, takichh jak akapity, tytuły czy inne bloki.

@@ -1,0 +1,3 @@
+Należy w tym celu posłużyć się tagiem <embed>
+
+<embed src="źródło">

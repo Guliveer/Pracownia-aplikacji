@@ -1,0 +1,1 @@
+Akapit jest zwyczajnym "wycinkiem" tekstu. Blok natomiast, może zawierać w sobie inne akapity, tytuły lub kolejne bloki. Bloki nie oddzielają się wzajemnie automatycznie, tak jak to robi akapit.

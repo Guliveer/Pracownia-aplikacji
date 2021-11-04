@@ -1,0 +1,1 @@
+Elementy zawarte w tytule (zwanym także nagłówkiem) wyświetlane są stopniowaną wielkością czcionek w zależności o nagłówka. Nagłówek <h1> posiada największą czcionkę, a <h6> - najmniejszą.

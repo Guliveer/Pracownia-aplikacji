@@ -1,0 +1,3 @@
+- Tworzenie menu
+- Tworzenie listy zadań
+- Tworzenie algorytmu na zasadzie step-by-step

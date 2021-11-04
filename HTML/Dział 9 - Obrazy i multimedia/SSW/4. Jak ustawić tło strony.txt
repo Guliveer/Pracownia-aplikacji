@@ -1,0 +1,1 @@
+Do znacznika <body> dodajemy atrybut bgcolor lub background

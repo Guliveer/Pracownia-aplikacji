@@ -1,0 +1,1 @@
+Ułatwia to czytanie, jeśli komórki nagłówkowe znikną już z ekranu, z powodu zbyt długiej tabeli

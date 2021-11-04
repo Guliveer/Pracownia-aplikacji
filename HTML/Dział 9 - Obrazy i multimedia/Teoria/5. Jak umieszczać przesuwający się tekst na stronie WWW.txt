@@ -1,0 +1,1 @@
+Należy w tym celu użyć znacznika <marquee></marquee>, którym należy otoczyć tekst który ma być animowany

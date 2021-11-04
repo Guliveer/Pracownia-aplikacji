@@ -1,0 +1,1 @@
+Jest to specjalny tekst otoczony nawiasami ostrymi. Mają bezpośreni wpływ na strukturę oraz wygląd witryny. 

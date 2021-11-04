@@ -1,0 +1,3 @@
+- odsyłacze do podstron
+- odsyłacze wewnątrzstronicowe
+- odsyłaczce pocztowe

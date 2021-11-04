@@ -1,0 +1,13 @@
+Aby to uczynić, wewnątrz ramy jednej listy, tworzymy następną:
+
+<ul>
+	<li></li>
+	<li></li>
+
+	<ol>
+		<li></li>
+		<li></li>
+	</ol>
+
+	<li></li>
+</ul>

@@ -1,0 +1,7 @@
+Po zadeklarowaniu języka, w jakim tworzona będzie strona, można przystąpić do wprowadzenia nagłówka dokumentu <HEAD>. Ogólny zarys nagłówka:
+
+<html>
+	<HEAD>
+		<!-- nagłówek dokumentu -->
+	</HEAD>
+</html>

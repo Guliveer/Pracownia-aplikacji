@@ -1,0 +1,5 @@
+W tym celu używa się tagów:
+
+	- pogrubienie: <b></b>
+	- pochylenie: <i></i>
+	- podkreślenie: <u></u>

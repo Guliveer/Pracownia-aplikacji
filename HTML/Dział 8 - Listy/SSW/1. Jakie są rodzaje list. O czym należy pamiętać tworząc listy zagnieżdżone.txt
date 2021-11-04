@@ -1,0 +1,6 @@
+Rodzaje list:
+	- uporządkowane
+	- nieuporządkowane
+	- zagnieżdżone
+
+Przy tworzeniu list zagnieżdżonych należy pamiętać o poprawnej kolejności znaczników. Dodatkowo najlepiej jest zacząć od najbardziej ogólnych punktów list.

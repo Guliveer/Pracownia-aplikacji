@@ -1,0 +1,1 @@
+Należy zwrócić uwagę na różne funkcje wspomagające pracę nad witryną, takie jak: dbanie o poprawnośc składniową, edycja informacji nagłówkowych (meta), kolorowanie składni i wiele więcej.

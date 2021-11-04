@@ -1,0 +1,1 @@
+Akapit stanowi fragment tekstu ograniczonego tagami <p></p>. Dzięki niemu wprowadzana treść nie zlewa się w jeden ciąg znaków.

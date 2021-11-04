@@ -1,0 +1,4 @@
+Aby stworzyć pusty szablon polskiej strony należy poprawnie utworzyć podstawową strukturę dokumentu, a następnie w sekcji <HEAD> wpisać następujące meta tagi:
+
+<meta http-equiv="Content-Language" content="pl">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">

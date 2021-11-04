@@ -1,0 +1,1 @@
+Służą do wprowadzania znaków, które mają szczególne znaczenie w HTML lub, gdy chcemy wstawić znak niedostępny na klawiaturze

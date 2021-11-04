@@ -1,0 +1,10 @@
+Treści bezpośrednio uwidocznione na stronie umieszczone są w treści dokumentu <BODY>. Ogólny zarys treści dokumentu:
+
+<html>
+	<head>
+		<!-- nagłówek dokumentu -->
+	</head>
+	<BODY>
+		<!-- treść strony -->
+	</BODY>
+</html>

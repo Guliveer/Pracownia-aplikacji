@@ -1,0 +1,5 @@
+Komentarz powinien wyglądać w następujący sposób:
+
+<!-- Treść komentarza -->
+
+Nie mogą być zagnieżdżane ani umieszczane wewnątrz innych znaczników.

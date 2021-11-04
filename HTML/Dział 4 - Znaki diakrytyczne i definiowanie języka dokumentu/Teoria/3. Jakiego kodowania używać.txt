@@ -1,0 +1,1 @@
+Obowiązującym standardem kodowania jest iso-8859-2. W przypadku, gdy na stronie pojawią się również teksty w innych językach niż polski, warto wprowadzić kodowanie utf-8.

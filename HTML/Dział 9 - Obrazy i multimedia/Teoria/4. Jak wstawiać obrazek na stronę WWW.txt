@@ -1,0 +1,3 @@
+Należy w tym celu uży tagu <img>
+
+<img src="adres_obrazu">

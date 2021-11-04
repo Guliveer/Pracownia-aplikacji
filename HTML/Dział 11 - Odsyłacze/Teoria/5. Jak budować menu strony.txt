@@ -1,0 +1,3 @@
+Możzna je tworzyć przy pomocy etykiet 
+
+<a href="#nazwa_etykiety">Tekst</a>

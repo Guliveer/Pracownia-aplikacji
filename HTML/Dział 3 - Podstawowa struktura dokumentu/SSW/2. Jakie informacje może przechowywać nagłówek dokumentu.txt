@@ -1,0 +1,9 @@
+Może przechowywać takie elementy jak:
+	- tytuł strony
+	- kodowanie polskich znaków
+	- słowa kluczowe
+	- opis strony
+	- style formatowania
+	- dane autora
+
+i wiele więcej...

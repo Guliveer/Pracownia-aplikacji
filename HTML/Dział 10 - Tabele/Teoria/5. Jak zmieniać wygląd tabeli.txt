@@ -1,0 +1,3 @@
+Jeżeli chcemy zmienić wygląd ogólny tabeli należy wprowadzać atrybuty w tagu <table> (np. border, cellspacing)
+
+Jeżeli chcemy zmienić wygląd komórek, należy wprowadzać w tym celu atrybuty w tagu <td> (np. rowspan, background)

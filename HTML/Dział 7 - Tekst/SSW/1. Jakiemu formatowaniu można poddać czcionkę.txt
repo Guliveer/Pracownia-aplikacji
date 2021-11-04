@@ -1,0 +1,1 @@
+Można zmienić jego wielkość, kolor, font, kierunek i indeks (górny i dolny). Można go także pochylić, podkreślić, przekreślić, pogrubić, wyśrodkować, wyjustować, wyrównać do lewej/prawej.

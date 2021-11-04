@@ -1,0 +1,6 @@
+Aby określić język strony należy użyć taki meta tag:
+
+<meta http-equiv="Content-Language" content="XX">
+
+
+W miejsce XX należy wstawić odpowiedni skrót języka, przykładowo: pl, fr, it, ru.

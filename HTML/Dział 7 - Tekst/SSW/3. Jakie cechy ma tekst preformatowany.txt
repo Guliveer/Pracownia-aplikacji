@@ -1,0 +1,1 @@
+Wyświetla wszystkie białe znaki, wszystkie puste linie oraz przejścia do nowych linii

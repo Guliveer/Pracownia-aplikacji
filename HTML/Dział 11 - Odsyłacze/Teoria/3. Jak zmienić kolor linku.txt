@@ -1,0 +1,5 @@
+Wewnąrz tagu <body> należ dodać atrybuty:
+    - link="kolor" -> w cel miany koloru linku nieodwiedzonego
+    - vlink="kolor" -> w celu zmiany koloru linku odwiedzonego
+    - alink="kolor" -> w celu zmiany koloru linku aktywnego (przy kliknięciu)
+    

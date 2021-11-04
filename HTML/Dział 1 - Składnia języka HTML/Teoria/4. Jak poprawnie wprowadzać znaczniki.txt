@@ -1,0 +1,1 @@
+Foratując dany fragment strony, należy umieścić tekst pomiędzy znacznikiem otwierającym, a znacznikiem zamykającym, który dodatkowo zawiera znak "/", czyli ukośnik.

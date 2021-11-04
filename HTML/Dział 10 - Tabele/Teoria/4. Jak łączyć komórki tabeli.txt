@@ -1,0 +1,4 @@
+Wewnątrz znacznika <td>
+
+    - atrybut rowspan odpowiada za ilość połączonych komórek w pionie
+    - atrybut colspan odpowiada za ilość połączonych komórek w poziomie

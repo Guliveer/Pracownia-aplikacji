@@ -1,0 +1,8 @@
+Kolor fontu w HTML można zmienić na kilka sposobów w atrybucie "color" tagu <font>:
+
+	- systemem szestnastkowym (np. #ff23e lub #ff23ce12
+	- formatem RGB (np. rgb(255,231,76))
+	- słowem opisującym kolor (np. white)
+
+Format RGB od systemu szesnastkowego nie różni się prawie wcale, jedyna różnica to sposób zapisu.
+Najmniej swobodnym sposobem jest opis słowny - posiada on bardzo ograniczoną gamę kolorów.

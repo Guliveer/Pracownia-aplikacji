@@ -1,0 +1,1 @@
+W celu wyyświetlania tekstu na stronie należy umieścić go w sekcji <BODY> danej witryny.

@@ -1,0 +1,1 @@
+Błędne działanie strony może spowodować pominięcie metainformacji związanych z kodowaniem strony (charset) lub językiem w którym jest pisana.

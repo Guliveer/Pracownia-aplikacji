@@ -1,0 +1,1 @@
+To programy , któe współpracują z wyszukwiarką, przekazując wybrane informacje na temat witryny do bazy danych wyszukiwarki

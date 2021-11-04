@@ -1,0 +1,4 @@
+Może przyjmować:
+
+	- type (styl punktora)
+	- start (wartość startowa listy)

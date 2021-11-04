@@ -1,0 +1,10 @@
+Łącząc ze sobą w odpowiednim porządku elementy <HTML>, <HEAD> oraz <BODY>, otrzymamy podstawową strukturę dokumentu.
+Odpowiedni porządek wygląda następująco:
+
+<HTML>
+	<HEAD>
+	</HEAD>
+
+	<BODY>
+	</BODY>
+</HTML>

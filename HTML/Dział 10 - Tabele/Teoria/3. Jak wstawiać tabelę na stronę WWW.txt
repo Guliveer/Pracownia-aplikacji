@@ -1,0 +1,5 @@
+Zewnętrzną ramę tabeli stanowi <table></table>
+
+Wewnątrz ramy umieszcza się wiersze <tr></tr>
+
+W wierszach umieszcza się komórki <td></td>

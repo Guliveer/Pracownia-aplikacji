@@ -1,0 +1,1 @@
+Wewnątrz tagu <body> należy podać atrybut bgcolor="{kolor}" lub background="adres_obrazu"

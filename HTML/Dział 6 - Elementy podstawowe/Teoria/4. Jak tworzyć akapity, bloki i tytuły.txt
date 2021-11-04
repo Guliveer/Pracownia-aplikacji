@@ -1,0 +1,5 @@
+Jak utworzyć?
+
+	a) akapity ->	<p> tekst akapitu </p>
+	b) bloki ->	<div> treść bloku </div>
+	c) tytuły ->	<h1...h6> tytuł </h1...h6>

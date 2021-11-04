@@ -1,0 +1,5 @@
+Budowę dokumentu hipertekstowego rozpoczyna się od zadeklarowania, w jakim języku tworzona będzie strona internetowa. Ramy dokumentu hipertekstowego stanowią znaczniki określające język, które umieszczone są w nawiasach ostrych:
+
+<html>
+	<!-- zawartośc dokumentu hipertekstowego -->
+</html>

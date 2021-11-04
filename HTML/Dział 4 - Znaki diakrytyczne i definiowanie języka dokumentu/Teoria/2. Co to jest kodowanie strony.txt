@@ -1,0 +1,1 @@
+Kodowanie strony, to wprowadzanie w kodzie odpowiednich oznaczeń w celu prawidłowego wyświetlania wszystkich znaków.

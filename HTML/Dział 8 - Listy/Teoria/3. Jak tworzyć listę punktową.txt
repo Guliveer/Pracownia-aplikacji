@@ -1,0 +1,4 @@
+Tworzymy je wykorzystując dwa znaczniki:
+
+	- <ol></ol> rama listy nieuporządkowanej
+	- <li></li> element listy

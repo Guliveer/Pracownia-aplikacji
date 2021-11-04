@@ -1,0 +1,1 @@
+Metainformacje to informacje to dodatkowe informacje na temat daje witryny przekazywane przez elementy "meta"

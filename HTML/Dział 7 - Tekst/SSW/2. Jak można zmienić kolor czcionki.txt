@@ -1,0 +1,1 @@
+Aby zmienić kolor należy użyć atrybutu color="{kolor}" tagu <font>

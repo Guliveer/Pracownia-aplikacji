@@ -1,0 +1,3 @@
+Indeks górny: <sup></sup>
+
+Indeks dony: <sub></sub>

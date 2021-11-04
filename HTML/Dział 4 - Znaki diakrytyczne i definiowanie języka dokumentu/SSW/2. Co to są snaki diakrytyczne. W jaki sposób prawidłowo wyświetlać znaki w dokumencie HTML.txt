@@ -1,0 +1,3 @@
+To znaki graficzne używane w alfabetach i innych systemach pisma, umieszczane nad, pod literą, obok lub wewnątrz niej, zmieniające sposób odczytu tej litery i tworzące przez to nową literę.
+
+Aby prawidłowo je wyyświetlić musimy zadeklarować zestaw znaków jakiego będziemy używać w nagłówku dokumentu.

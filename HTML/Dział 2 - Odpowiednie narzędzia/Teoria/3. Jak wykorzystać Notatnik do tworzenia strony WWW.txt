@@ -1,0 +1,1 @@
+Tworzenie stron w Notatniku pozwala na bardzo dobre opanowanie składni języka HTML, ponieważ nie udostępnia żadnych narzędzi wspomagającyh. Należy w nim polegać jedynie na swojej wiedzy.

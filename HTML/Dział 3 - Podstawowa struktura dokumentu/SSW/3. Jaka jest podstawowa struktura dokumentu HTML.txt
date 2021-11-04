@@ -1,0 +1,9 @@
+Podstawowa struktura dokumentu HTML zawiera: deklarację języka HTML, nagłówek oraz treść dokumentu. Prezentuje się to tak:
+
+<HTML>
+	<HEAD>
+	</HEAD>
+
+	<BODY>
+	</BODY>
+</HTML>

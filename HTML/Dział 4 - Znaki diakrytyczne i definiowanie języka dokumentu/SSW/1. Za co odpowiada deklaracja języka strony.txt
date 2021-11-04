@@ -1,0 +1,1 @@
+Polecenie informuje o języku, w którym została napisana przez nas strona. Niektóre programy przetwarzające korzystają z niego przy precyzowaniu zapytań.

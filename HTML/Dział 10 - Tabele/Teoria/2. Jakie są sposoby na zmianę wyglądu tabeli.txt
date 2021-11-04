@@ -1,0 +1,1 @@
+Można wprowadzić margines we wszystkich komórkach, dodać obramowanie tabeli, wstawić odstęp między komórkami, zmienić jej szerokość/wysokość, łączyć komórki/kolumny
