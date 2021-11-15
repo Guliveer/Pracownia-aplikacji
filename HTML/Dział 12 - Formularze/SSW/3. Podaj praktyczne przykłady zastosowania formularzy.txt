@@ -1,0 +1,4 @@
+Przykłady praktycznego zastosowania formularzy:
+    -   formularz kontaktowy / zgłoszeniowy
+    -   ankieta
+    -   test / sprawdzian

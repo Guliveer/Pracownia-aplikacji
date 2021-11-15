@@ -1,0 +1,2 @@
+Znacznikiem tworzącym ramy formularza jest <form>
+Wewnątrz można umieszczać różne elementy, większość z nich tworzy znacznik <input>

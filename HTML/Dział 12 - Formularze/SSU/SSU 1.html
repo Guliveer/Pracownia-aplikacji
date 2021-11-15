@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<HTML>
+
+    <HEAD>
+        <meta http-equiv="Content-Language" content="pl">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <TITLE>
+            Tytuł
+        </TITLE>
+    </HEAD>
+
+    <BODY>
+        <form>
+            Imię: <input type="text" name="name"><br />
+            Nazwisko: <input type="text" name="surname"><br />
+            PESEL: <input type="text" name="pesel" maxlength="11"><br />
+            Kod pocztowy: <input type="text" name="postal-code1" maxlength="2">-<input type="text" name="postal-code2"
+                maxlength="3"><br />
+            Płeć:<br />
+            <input type="radio" name="gender" value="female"> Kobieta <br />
+            <input type="radio" name="gender" value="male"> Mężczyzna <br />
+            Województwo:
+            <select name="voivodeship">
+                <option value="none" disabled selected>- Wybierz -</option>
+                <option value="ds">Dolnośląskie</option>
+                <option value="kp">Kujawsko-Pomorskie</option>
+                <option value="ll">Lubelskie</option>
+                <option value="lb">Lubuskie</option>
+                <option value="ld">Łódzkie</option>
+                <option value="mp">Małopolskie</option>
+                <option value="mz">Mazowiekcie</option>
+                <option value="op">Opolskie</option>
+                <option value="pk">Podkarpackie</option>
+                <option value="pd">Podlaskie</option>
+                <option value="pm">Pomorskie</option>
+                <option value="sl">Śląskie</option>
+                <option value="sw">Świętokrzyskie</option>
+                <option value="wm">Warmińsko-Mazurskie</option>
+                <option value="wp">Wielkopolskie</option>
+                <option value="zp">Zachodniopomorskie</option>
+            </select><br /><br />
+            <button type="reset">Wyczyść</button><button type="submit">Wyślij</button>
+
+        </form>
+    </BODY>
+
+</HTML>

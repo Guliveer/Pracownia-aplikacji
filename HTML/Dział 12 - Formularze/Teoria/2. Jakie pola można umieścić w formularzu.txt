@@ -1,0 +1,8 @@
+Typy pól formularza:
+    - tekstowe
+    - hasło
+    - wyboru
+    - opcji
+    - lista rozwijana
+    - obszar tekstowy
+    - wyboru pliku
