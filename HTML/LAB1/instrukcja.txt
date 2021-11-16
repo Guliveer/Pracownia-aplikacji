@@ -1,0 +1,27 @@
+I. Poprawna składnia języka html
+
+II. Określ język strony jako polski i wprowadź kodowanie polskich znaków
+
+III. W elementach meta dodaj słowa kluczowe oraz autora strony (imię i nazwisko)
+
+IV. Wybierz tematykę strony
+
+V. Wpisz tematykę strony w tytuł strony (title)
+
+VI. W polu nr 1. na rysunku wpisz nagłówek strony odpowiedni do wybranej tematyki, tytuł ma być wielkości <h1>
+
+VII. W polu nr 2. wstaw obrazek związany z tematyką strony
+
+VIII. W polu nr 3. wstaw krótki opis rzeczy przedstawionej na obrazku
+
+IX. W tym opisie co dwa zdania zmień kolor tekstu.
+
+X. Wybierz dwa słowa w tym opisie i spraw aby były odsyłaczami do dwóch różnych portali informacyjncyh.
+
+XI. Pod opisem wstaw tabelę składającą się z jednego wiersza i dwóch kolumn.
+
+XII. W polu nr 4. (pierwsza komórka tabeli) wstaw w liście numerowanej pozytywy rzeczy na obrazku
+
+XIII. W polu nr 5. (druga komórka tabeli) wstaw w liście punktowej (nienumerowanej) negatywy rzeczy na obrazku (zalecany jeden podpunkt - brak negatywów)
+
+XIV. W polu nr 6. wstaw formularz, w nim ma być obszar tekstowy, który zmusza osobę odwiedzającą stronę do napisania pozytywnych rzeczy o rzeczy na obrazku (domyślny tekst w obszarze tekstowym ma jakoś zastraszać do pisania dobrych rzeczy). Pod obszarem tekstowym ma być jedynie przycisk WYŚLIJ.
