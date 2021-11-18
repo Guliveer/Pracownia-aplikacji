@@ -1,0 +1,1 @@
+W przekierowaniu umieszczonym w menu należy dodać atrybut "target" o wartości takiej samej jak atrybut "name" ramki docelowej, to sprawi że odnośnik zostanie otwarty w docelowej ramce

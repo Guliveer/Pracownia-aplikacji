@@ -1,0 +1,3 @@
+Między tagami <frameset></frameset> należy wpisać:
+
+<frame src="źródło_strony">
