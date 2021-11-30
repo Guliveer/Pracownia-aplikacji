@@ -1,0 +1,1 @@
+Kaskadowe arkusze stylów CSS to język służacy do zarządzania wizualną częścią strony

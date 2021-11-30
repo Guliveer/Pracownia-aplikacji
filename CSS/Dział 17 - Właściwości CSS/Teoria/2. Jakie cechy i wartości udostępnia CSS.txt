@@ -1,0 +1,1 @@
+Udostępnia możliwość zmiany właściwości tła, czcionki, obramowania, odsyłaczy, list, marginesów itp.

@@ -1,0 +1,5 @@
+font-family: nazwa_czcionki;
+font-size: wielkość_czcionki;
+font-style: styl_czcionki;
+font-variant: typ_czcionki;
+font-weight: grubość_czcionki;

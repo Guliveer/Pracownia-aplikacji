@@ -1,0 +1,3 @@
+W sekcji <head></head> należy dodać następujący tag:
+
+    <link rel="stylesheet" type="text/css" href="adres_do_pliku/styl.css">

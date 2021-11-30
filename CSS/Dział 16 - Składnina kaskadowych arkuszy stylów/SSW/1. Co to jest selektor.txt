@@ -1,0 +1,1 @@
+Selektor określa jaki element ma zostać sformatowany

@@ -1,0 +1,5 @@
+background-attachment: scroll;
+background-color: #000;
+background-image: bg.png;
+background-position: top left;
+background-repeat: no-repeat;

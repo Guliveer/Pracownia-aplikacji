@@ -1,0 +1,5 @@
+background-attachment: ruchomość_tła;
+background-color: kolor_tła;
+background-image: obraz_tła;
+background-position: pozycja_tła;
+background-repeat: powtarzanie_tła;

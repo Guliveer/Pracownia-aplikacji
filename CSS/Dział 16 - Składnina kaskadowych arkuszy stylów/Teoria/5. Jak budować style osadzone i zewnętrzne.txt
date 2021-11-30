@@ -1,0 +1,7 @@
+Składnia wygląda następująco:
+
+    selektor1, selektor2 {
+        cecha: wartość;
+        cecha: wartość;
+        cecha: wartość
+    }

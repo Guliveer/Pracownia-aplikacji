@@ -1,0 +1,6 @@
+Oznacza to że różne rodzaje stylów mają określoną hierarchię (wg ważności):
+
+    - styl wpisany
+    - styl osadzony
+    - styl zewnętrzny
+    - domyślne ustawienia przeglądarki

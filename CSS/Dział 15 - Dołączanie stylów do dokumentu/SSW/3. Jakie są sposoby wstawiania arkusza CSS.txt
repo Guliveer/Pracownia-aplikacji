@@ -1,0 +1,1 @@
+Można je wstawiać bezpośrednio w pliku HTML lub dołączać je z zewnętrznego pliku, a także wpisywać jest w konkretny znacznik

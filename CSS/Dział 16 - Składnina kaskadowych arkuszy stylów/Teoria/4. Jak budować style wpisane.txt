@@ -1,0 +1,5 @@
+Styl ten jest bezpośrenio wprowadzany w wybranym znaczniku dokumentu HTML, np.
+
+    <p style="text-align: center; color: teal">
+        Tekst wyśrodkowany w kolorze "teal"
+    </p>

@@ -1,0 +1,21 @@
+selektor1, selektor2 {
+    cecha: wartość;
+    cecha: wartość;
+    cecha: wartość
+}
+
+lub
+
+#id {
+	cecha: wartość;
+        cecha: wartość;
+        cecha: wartość
+}
+
+lub
+
+.klasa {
+	cecha: wartość;
+    cecha: wartość;
+    cecha: wartość
+}

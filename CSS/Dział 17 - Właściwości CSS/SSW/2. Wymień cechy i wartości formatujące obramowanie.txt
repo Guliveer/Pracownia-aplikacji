@@ -1,0 +1,3 @@
+border-color: kolor_obramowania;
+border-style: styl_obramowania;
+border-width: grubość_obramowania;

@@ -1,0 +1,4 @@
+Są trzy typy arkuszy CSS:
+    - wpisane
+    - osadzone
+    - zewnętrzne
