@@ -1,0 +1,20 @@
+body {
+	background-color: white;
+	background-image: url("../img/loading.gif");
+	background-position-x: center;
+	background-position-y: 30vh;
+	background-size: auto;
+	background-repeat: no-repeat;
+	cursor: wait;
+	margin: 0;
+	height: 100%;
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
+body::-webkit-scrollbar {
+	display: none;
+}
+
+img {
+	cursor: wait;
+}

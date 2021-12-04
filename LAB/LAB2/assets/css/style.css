@@ -1,0 +1,121 @@
+body {
+	background: url("../img/bg.png") center top no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	position: unset;
+	height: 99vh;
+}
+
+div#logo {
+	color: rgb(0, 0, 0);
+	background-color: #66cc33;
+	size: 60px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	text-shadow: 0 0 2px black;
+	border-width: 1px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	letter-spacing: 10px;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
+.tekst {
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img.musk {
+	display: block;
+	margin: 0 auto;
+	width: 400px;
+	height: 200px;
+}
+
+img.gif {
+	display: block;
+	margin: 0 auto;
+	border-width: 1px;
+	border-color: white;
+	border-style: solid;
+}
+
+a,
+a:hover {
+	color: rgb(56, 90, 228);
+}
+
+a:visited {
+	color: red;
+}
+
+a:active {
+	color: gray;
+}
+
+/*
+==============================
+Część dowolna (punkt 30)
+\/ \/ \/ \/ \/ \/ \/ \/
+==============================
+*/
+
+* {
+	transition: 0.25s ease;
+}
+
+div#logo:hover {
+	letter-spacing: 30px;
+	cursor: default;
+}
+
+img {
+	filter: blur(5px);
+}
+
+img:hover {
+	transform: scale(1.1);
+	filter: blur(0);
+	cursor: help !important;
+	z-index: 9999 !important;
+	position: relative;
+}
+
+p.tekst:hover {
+	cursor: url("../img/rick.png"), none !important;
+}
+
+a {
+	text-decoration: none;
+}
+div.link {
+	margin: 10px;
+	text-align: center;
+}
+div.link button {
+	font-size: 2em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background: rgba(255, 255, 255, 0.3);
+	padding: 1rem;
+	outline-color: none;
+	outline-width: 0.1em;
+	outline-style: solid;
+	border-radius: 15px;
+	text-shadow: 0 0 1em #000;
+	border: none;
+	backdrop-filter: blur(5px);
+	box-shadow: 0 0 0 0 transparent;
+}
+.link button:hover {
+	position: relative;
+	border-radius: 5px;
+	outline-color: #fff;
+	background-color: rgba(0, 0, 0, 0.3);
+	transform: scale(3);
+	letter-spacing: 13px;
+	box-shadow: 0.3em 0.3em 0 0 red;
+}
