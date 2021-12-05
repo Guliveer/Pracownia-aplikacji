@@ -1,0 +1,25 @@
+* {
+	transition: 0.3s;
+}
+
+div,
+a {
+	max-width: max-content;
+	padding: 0.15rem 0.5rem;
+}
+div:hover {
+	transform: translateX(10px);
+}
+
+a,
+.link {
+	color: white;
+	background-color: rgb(46, 88, 179);
+	text-decoration: none;
+}
+
+a:visited,
+.visited {
+	text-decoration: line-through;
+	background-color: #979797;
+}
