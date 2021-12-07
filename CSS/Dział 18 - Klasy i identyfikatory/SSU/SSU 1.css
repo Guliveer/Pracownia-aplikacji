@@ -1,0 +1,15 @@
+#tytul {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-weight: 800;
+}
+
+#wiersz {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: italic;
+}
+
+#autor {
+	font-family: "Times New Roman", Times, serif;
+	color: rgb(87, 87, 87);
+	font-size: small;
+}

@@ -1,0 +1,3 @@
+Aby wykorzystać klasę, w dokumencie HTML należy do tagu dodać atrybut "class={nazwa_klasy}"
+
+Aby wykorzystać id, w dokumencie HTML należy do tagu dodać atrybut "id={nazwa_id}"

@@ -1,0 +1,1 @@
+Klasa jest atrybutem znaczników dokumentu HTML i odnosi się do selektora klasu lub klasu uniwersalnej

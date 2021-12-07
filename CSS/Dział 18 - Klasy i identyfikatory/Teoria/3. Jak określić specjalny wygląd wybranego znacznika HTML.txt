@@ -1,0 +1,1 @@
+Selektor identyfikatora, jest nazwą atrybutu di połączoną z innym selektorem za pomocą kratki

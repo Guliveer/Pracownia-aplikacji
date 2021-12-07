@@ -1,0 +1,29 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 500;
+}
+
+.rzeczownik,
+rz,
+.czasownik,
+cz,
+.przymiotnik,
+pr {
+	color: white;
+	padding: 0.1rem 0.3rem;
+}
+
+.rzeczownik,
+rz {
+	background-color: red;
+}
+
+.czasownik,
+cz {
+	background-color: blue;
+}
+
+.przymiotnik,
+pr {
+	background-color: green;
+}

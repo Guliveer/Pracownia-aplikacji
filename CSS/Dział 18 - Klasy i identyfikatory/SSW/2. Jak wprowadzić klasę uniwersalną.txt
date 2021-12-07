@@ -1,0 +1,1 @@
+Należy uwtorzyć klasę, ale pomijając definicję selektora

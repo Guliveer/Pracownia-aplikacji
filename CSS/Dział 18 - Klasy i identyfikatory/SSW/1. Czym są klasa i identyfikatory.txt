@@ -1,0 +1,3 @@
+Klasa jest atrybutem znaczników dokumentu HTML i odnosi się do selektora klasu lub klasu uniwersalnej
+
+Identyfikatory spełniaja podobną rolę jak klasy, z tą różnicą, że tylko jeden element w dokumencie HTML może mieć dany identyfikator.
