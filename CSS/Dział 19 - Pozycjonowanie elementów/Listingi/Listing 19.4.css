@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div#kwadrat {
+	width: 290px;
+	height: 170px;
+	border: solid black;
+	background-image: url("grid.png");
+	background-size: contain;
+}
+
+#obrazek_css {
+	height: 120px;
+	border: solid black;
+	position: absolute;
+	left: 80px;
+	top: 20px;
+}

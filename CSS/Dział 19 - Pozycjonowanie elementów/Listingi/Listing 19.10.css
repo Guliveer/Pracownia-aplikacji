@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#obrazek_css {
+	border: solid black;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	z-index: 1;
+}
+
+#obrazek2_css {
+	border: dashed red;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	z-index: 2;
+}
+
+#akapit {
+	color: blue;
+	font-weight: 800;
+	position: absolute;
+	left: 70px;
+	top: 150px;
+	z-index: 3;
+}
