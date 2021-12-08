@@ -1,0 +1,1 @@
+Pozwala ustalić pozycje elementów sąsiadujących względem elementu pływającego (float)

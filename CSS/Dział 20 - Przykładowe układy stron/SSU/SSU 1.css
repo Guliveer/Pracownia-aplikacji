@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#pudelko {
+	margin: auto;
+}
+
+#logo {
+	height: 2vh;
+	background-color: gray;
+}
+
+#menu {
+	height: 2vh;
+	background-color: silver;
+	border-top: black 1px solid;
+	border-bottom: black 1px solid;
+}
+
+#tresc {
+	width: 70%;
+	height: 80vh;
+	float: left;
+	background-color: darkgrey;
+}
+
+#menuprawe {
+	--ramka-rozmiar: 1px;
+	width: calc(30% - var(--ramka-rozmiar));
+	height: 80vh;
+	float: right;
+	background-color: silver;
+	border-left: black var(--ramka-rozmiar) solid;
+}
+
+#stopka {
+	background-color: gray;
+	clear: both;
+	height: 2vh;
+	border-top: black 1px solid;
+}
