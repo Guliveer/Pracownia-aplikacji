@@ -10,6 +10,7 @@ set time = time /t
 
 git commit -m "Last update: %date% @ %time%"
 git branch -M main
+git fetch https://github.com/Guliveer/Twitch-Watchers_Multiple.git
 git push -u origin main
 
 exit

@@ -1,0 +1,7 @@
+* {
+	transition: 3s ease;
+}
+
+div ~ span {
+	filter: blur(1.5px);
+}
