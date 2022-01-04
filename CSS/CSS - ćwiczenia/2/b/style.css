@@ -1,0 +1,60 @@
+body {
+	margin: 5px;
+	padding: 5px;
+	background-color: black;
+}
+div {
+	padding: 5px;
+	margin: 0;
+	border: 1px solid white;
+	vertical-align: top;
+	background-color: gray;
+}
+div#lewa {
+	float: left;
+	width: 200px;
+}
+div#prawa {
+	float: right;
+	width: 180px;
+}
+div#srodek {
+	margin: 0 191px 0 220px;
+}
+div#lewa h2 {
+	background-color: silver;
+	letter-spacing: 0.5em;
+	margin: 0 0 2px 0;
+	padding: 5px;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: verdana;
+	border: 1px solid black;
+}
+div#lewa ul {
+	padding: 0;
+	margin: 0;
+	width: 150px;
+	list-style-type: none;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: verdana;
+}
+div#lewa ul li {
+	margin: 0 0 2px 0;
+	border: 1px solid black;
+	background-color: silver;
+}
+div#lewa ul a {
+	display: block;
+	color: black;
+	padding: 5px 15px 5px 15px;
+	text-decoration: none;
+}
+div#lewa ul a:hover {
+	color: gray;
+	background-color: #cdcdcd;
+	background-image: url(1.gif);
+	background-position: 120px 50%;
+	background-repeat: no-repeat;
+}
