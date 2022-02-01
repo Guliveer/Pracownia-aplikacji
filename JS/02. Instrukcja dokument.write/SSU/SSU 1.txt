@@ -1,0 +1,6 @@
+<script type="text/javascript">
+    document.write("<b>Oliwer Pawelski</b>: <br>");
+    document.write("<b>Wiek</b> - "+18+" lat <br>");
+    document.write("<b>Wzrost</b> - "+1.85+"m <br>");
+    document.write("<b>Waga</b> - "+69.5+"kg <br>");
+</script>

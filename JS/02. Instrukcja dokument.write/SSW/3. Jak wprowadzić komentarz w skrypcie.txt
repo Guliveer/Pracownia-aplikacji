@@ -1,0 +1,13 @@
+Są na to 2 sposoby:
+
+
+1.
+
+/*
+komentarz
+wieloliniowy
+*/
+
+2.
+
+//komentarz jednoliniowy
