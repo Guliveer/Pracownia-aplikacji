@@ -1,0 +1,3 @@
+Kompilator "tłumaczy" kod źródłowy na kod maszynowy w całości
+
+Interpreter "tłumaczy" kod źródłowy linijka po linijce na kod maszynowy

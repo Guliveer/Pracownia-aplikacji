@@ -1,0 +1,3 @@
+Aby je dodać należy wpisać:
+
+<script src="adres/do/skryptu.js"></script>
