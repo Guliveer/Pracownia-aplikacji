@@ -1,0 +1,13 @@
+1. Czym jest JavaScript?
+Jest językiem skryptowym pozwalającym na rozszerzenie standardowych elementów HTML
+
+2. Jakie są sposoby na umieszczenie skryptu JavaScript?
+Wewnątrz kodu źródłowego strony lub poprzez zewnętrzne dołączenie go do dokumentu HTML
+
+3. Jak umieszczać skrypt w dokumencie HTML?
+Należy go wpisać między znacznikami <script></script>
+
+4. Jak korzystać ze skryptów zewnętrznych?
+Aby je dodać należy wpisać:
+
+<script src="adres/do/skryptu.js"></script>
