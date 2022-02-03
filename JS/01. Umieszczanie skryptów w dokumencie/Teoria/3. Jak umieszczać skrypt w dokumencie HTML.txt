@@ -1,1 +1,0 @@
-Należy go wpisać między znacznikami <script></script>
