@@ -1,0 +1,17 @@
+1. Co to jest okno dialogowe?
+Jest to narzędzie pozwalające na nawiązanie interakcji z użytkownikiem.
+
+2. Jakie sa rodzaje okien dialogowych?
+Okno Informacyjne, Okno Decyzyjne, Okno tekstowe.
+
+3. Jak wyświetlać okno informacyjne?
+Za pomocą polecenia alert w skrypcie JS
+
+4. Jak wyświetlać okno decyzyjne?
+Za pomocą polecenia confirm w skrypcie JS
+
+5. Jak wyświetlać okno tekstowe?
+<script type="text/javascript">
+	document.write("JavaScript to ");
+	document.write (prompt("JavaScript to:",""));
+</script>

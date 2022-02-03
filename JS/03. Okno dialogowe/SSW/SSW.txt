@@ -1,0 +1,16 @@
+1. Scharakteryzuj różne okna dialogowe
+ALERT - informacja dla użytkownika, wyposażona jedynie w przycisk “OK”, służy do wyprowadzania danych (instrukcja wyjścia).
+
+CONFIRM - to okno dialogowe wyposażone jest w dwa przyciski: (“OK” oraz “Anuluj”), co w kombinacji z instrukcją warunkową if może pozwolić nam poprosić użytkownika o podjęcie decyzji
+
+PROMPT - okno, które może posłużyć do wprowadzania danych (instrukcja wejścia) – oczywiście w praktyce lepiej jest użyć pól edycyjnych, ale istnieje możliwość pobrania wartości także w oknie dialogowym. Drugi argument funkcji prompt() (w przykładzie poniżej słowo “Adam”) to tzw. placeholder, czyli wartość domyślna (od razu będzie ona zaznaczona, tak aby rozpoczęcie pisania usunęło ją z okna dialogowego)
+
+2. Jak wyświetlić okno dialogowe na stronie?
+	alert('komunikat')
+	confirm('komunikat')
+	promt('komunikat','wartość domyślna')
+
+3. Podaj praktyczne przykłady zastosowania okien dialogowych
+Okno informacyjne jest przykładowo używane by ostrzec, poinformować, zwrócić uwagę użytkownika.
+Okno decyzyjne jest przykładowo używane by dać wybór czy upewnić się wyboru użytkownika.
+Okno tekstowe jest przykładowo używane by spytać czy wprowadzić dane użytkownika.

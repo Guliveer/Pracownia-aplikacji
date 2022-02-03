@@ -1,0 +1,18 @@
+1. Jakie typy danych występują w języku JavaScript?
+Liczbowe, łancuchowe, logiczne, obiektowe, specjalne
+
+2. Jakie znaczenie mają sekwencje znaków specjalnych?
+\b - backspace
+\n - nowy wiersz
+\r - powrót karetki
+\f - nowa strona
+\t - tabulacja pozioma
+\" - cudzysłów
+\' - apostrof
+\\ - backslash
+
+3. Jak stosować różne typy liczbowe?
+Należy je wprowadzić w postaci dziesiętnej (12), ósemkowej (012), szestnastkowej (0xBD), notacji wykładniczej (0.1e2)
+
+4. Jak stosować sekwencje znaków specjalnych w typach łańcuchowych?
+Należy je stosować jako znaki ciągu tekstowego

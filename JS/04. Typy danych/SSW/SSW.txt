@@ -1,0 +1,21 @@
+1. Scharakteryzuj typy danych dostępne w JS
+Liczbowe - reprezentuje różnego rodzaju liczby. Nie uwzględnia podziału na liczby całkowike i zmiennoprzecinkowe
+
+Łancuchowe - dowolne ciągi znaków
+
+Logiczne - może przyjmować jedną z dwóch dostępnych wartości: "true" lub "false"
+
+Obiektowe - służy do reprezentacji obiektów. Najczęściej wykorzystuje się obiekty wbudowane oraz udostępniane przez przeglądarkę
+
+Specjalne - dzielą się na dwa rodzaje: "null" i "undefined". Typ "null" określa wartość pustą. Typ "undefined" określa wartość niezdefiniowaną.
+
+
+2. Jakie znasz sekwencje znaków specjalnych?
+\b - backspace
+\n - nowy wiersz
+\r - powrót karetki
+\f - nowa strona
+\t - tabulacja pozioma
+\" - cudzysłów
+\' - apostrof
+\\ - backslash
