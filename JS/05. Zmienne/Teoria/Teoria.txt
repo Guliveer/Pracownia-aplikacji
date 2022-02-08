@@ -7,6 +7,10 @@ Nazwa zmiennej musi zaczynać się od litery, a wewnątrz jej składni można u�
 3. Jak deklarować zmienne?
 Używając następującej składni:
 var nazwa_zmiennej;
+Nazwa zmiennej musi zaczynać się od litery. Wewnątrz jej składni dopuszcza się stosowanie liter, cyfr i znaku podkreślenia (_).
 
 4. Jak przypisać wartość do zmiennej?
-Żeby przypisać wartość do zmiennej, należy dostawić znak “=” i wpisać jej wartość
+Aby przypisać wartość do zmiennej należy zastosować następujący schemat:
+
+var zmienna_1="wartość"; lub
+var zmienna_2=wartość; (jeśli to wartość liczbowa)
