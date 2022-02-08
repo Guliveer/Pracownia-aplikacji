@@ -1,0 +1,8 @@
+1. Dlaczego nie określa się typu zmiennej przy jej deklaracji?
+Ponieważ określanie typu zmiennej nie jest wymagane w JS'ie
+
+2. Czy typ zmiennej może ulec modyfikacji się w trakcie wykonywania skryptu? 
+Tak, typ zmiennej może ulec zmianie podczas wykonywania skryptu.
+
+3. Jakiej metody użyć w celu przypisania zmiennej wartości podanej przez użytkownika?
+Należy użyć metody prompt.

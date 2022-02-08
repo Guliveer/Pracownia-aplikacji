@@ -1,0 +1,12 @@
+1. Co to jest zmienna?
+Jest to element programu pozwalający na przechowywanie danych różnych typów
+
+2. Jakie są zasady deklaracji zmiennej w języku JavaScript?
+Nazwa zmiennej musi zaczynać się od litery, a wewnątrz jej składni można używać liter, cyfr i znaku podkreślenia
+
+3. Jak deklarować zmienne?
+Używając następującej składni:
+var nazwa_zmiennej;
+
+4. Jak przypisać wartość do zmiennej?
+Żeby przypisać wartość do zmiennej, należy dostawić znak “=” i wpisać jej wartość
