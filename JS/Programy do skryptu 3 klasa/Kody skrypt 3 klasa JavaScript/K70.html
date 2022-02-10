@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Zmiana rozmiaru</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+		<script type="text/javascript">
+		$(document).ready(function(){
+			$("button").click(function(){
+				$("#blok").animate({
+					width: "500px", height: "500",
+				}, 1500 );
+			});
+		});
+		</script>
+		<style type="text/css">
+			#blok {
+				width: 100px;
+				height: 100px;
+				background: #c6d2f2;
+				position: absolute;
+			}	
+		</style>
+	</head>
+	<body>
+	
+		<button>Start animacji</button>
+		<div id="blok">
+		</div>
+	
+	</body>
+</html>

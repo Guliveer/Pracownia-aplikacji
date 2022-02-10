@@ -1,0 +1,101 @@
+﻿<html>
+	<head>
+	<title>Obrazki</title>
+		<script type="text/javascript">
+		
+			var obrazki = new Array();
+			obrazki[1] = "obrazek/1.jpg";
+			obrazki[2] = "obrazek/2.jpg";
+			obrazki[3] = "obrazek/3.jpg";
+			obrazki[4] = "obrazek/4.jpg";
+			obrazki[5] = "obrazek/5.jpg";
+			obrazki[6] = "obrazek/6.jpg";
+			obrazki[7] = "obrazek/7.jpg";
+			obrazki[8] = "obrazek/8.jpg";
+			obrazki[9] = "obrazek/9.jpg";
+			var sekund = 2; //co ile sekund ma sie zmieniac obrazek
+			
+			var a = 1;
+			var b = 2; 
+			var c = 3;
+			var d = 4;
+			var e = 5; 
+			var f = 6;
+			var g = 7;
+			var h = 8; 
+			var i = 9;
+			
+			function zmien(){
+				var ile = obrazki.length;
+				document.getElementById("1").src = obrazki[a];	
+				document.getElementById("2").src = obrazki[b];	
+				document.getElementById("3").src = obrazki[c];
+				document.getElementById("4").src = obrazki[d];	
+				document.getElementById("5").src = obrazki[e];	
+				document.getElementById("6").src = obrazki[f];
+				document.getElementById("7").src = obrazki[g];	
+				document.getElementById("8").src = obrazki[h];	
+				document.getElementById("9").src = obrazki[i];
+				a++;
+				b++;
+				c++;
+				d++;
+				e++;
+				f++;
+				g++;
+				h++;
+				i++;
+				if(ile==a){
+					a=1;
+				}		 	
+				if(ile==b) {
+					b=1;
+				} 
+				if(ile==c) {
+					c=1;
+				} 
+				if(ile==d) {
+					d=1;
+				} 
+				if(ile==e) {
+					e=1;
+				} 
+				if(ile==f) {
+					f=1;
+				} 
+				if(ile==g) {
+					g=1;
+				} 
+				if(ile==h) {
+					h=1;
+				} 
+				if(ile==i) {
+					i=1;
+				} 
+			}
+	
+			setInterval("zmien()", sekund*1000);
+	
+		</script>
+	</head>
+	<body>
+		<table border="2">
+			<tr>
+				<td><img src="obrazek/1.jpg" id="1" /></td>
+				<td><img src="obrazek/2.jpg" id="2" /></td>
+				<td><img src="obrazek/3.jpg" id="3" /></td>
+			</tr>
+			<tr>
+				<td><img src="obrazek/4.jpg" id="4" /></td>
+				<td><img src="obrazek/5.jpg" id="5" /></td>
+				<td><img src="obrazek/6.jpg" id="6" /></td>
+			</tr>
+			<tr>
+				<td><img src="obrazek/7.jpg" id="7" /></td>
+				<td><img src="obrazek/8.jpg" id="8" /></td>
+				<td><img src="obrazek/9.jpg" id="9" /></td>
+			</tr>
+		</table>
+		
+	</body>
+</html>

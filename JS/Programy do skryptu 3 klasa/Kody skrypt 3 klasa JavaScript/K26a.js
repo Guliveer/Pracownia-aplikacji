@@ -1,0 +1,16 @@
+<!--
+
+if (
+    (navigator.appName=="Netscape") &&
+    (parseInt(navigator.appVersion) >= 3) )
+
+
+{ window.location = "https://www.google.pl/search?q=warszawa+lotnisko" }
+
+else 
+
+document.write("Masz niewłasciwą wersję przegrądarki!!!");
+
+
+
+// -->

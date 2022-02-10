@@ -1,0 +1,17 @@
+﻿<html>
+	<head>
+		<title>Co słychać</title>
+		<script type="text/javascript">	
+			function Witaj(){
+				var imie = document.forms['form1'].imie.value;
+				alert('Co słychać ' + imie + '?');
+			}
+		</script>
+	</head>
+	<body>
+		<form id="form1" name="form1" action="mailto:nauka@gmail.com" method="post">
+			Podaj imię: <input type="text" name="imie"/>
+			<button onclick="Witaj()"> Kliknij!</button>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,23 @@
+﻿<html>
+	<head>
+		<title>Zdarzenie myszy</title>
+		<script type="text/javascript">
+			function zmiana_over(){
+				zmiana.src="Ikona3.jpg"
+			}
+			function zmiana_down(){
+				zmiana.src="Ikona4.jpg"
+			}
+		</script>
+	</head>
+	<body>
+		<a href="http://www.helion.pl" onMouseOver='zmiana_over()'
+		onMouseOut='zmiana.src="Ikona1.jpg"' onMouseDown='zmiana_down()'>
+		
+			<img src="Ikona1.jpg" name="zmiana" border="0" width="50" height="50" >
+		</a>
+		<p> Najedź na obrazek!</p>
+		<p>Przytrzymaj przycisk myszy! </p>
+		
+	</body>
+</html>

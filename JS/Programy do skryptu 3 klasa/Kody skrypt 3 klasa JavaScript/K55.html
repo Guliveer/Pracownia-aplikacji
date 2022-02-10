@@ -1,0 +1,21 @@
+﻿<html>
+	<head>
+		<title>Baner reklamowy</title>
+		<script type="text/javascript">	
+			czas = 100
+			znak_p =1
+			function przewin() {
+				window.setTimeout('przewin()',czas);
+			
+				var nap = document.napis.text.value;
+				document.napis.text.value = nap.substring(znak_p) + nap.substring(0,znak_p);
+			}
+			przewin();
+		</script>
+	</head>
+	<body>	
+		<form name="napis">
+			<input name="text" size="40" value="Najlepsze strony internetowe. Zostań z nami.  ">
+		</form>
+	</body>
+</html>

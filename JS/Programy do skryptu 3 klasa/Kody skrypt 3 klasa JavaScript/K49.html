@@ -1,0 +1,25 @@
+﻿<html>
+	<head>
+		<title>Lista formularza</title>
+		<script type="text/javascript">
+			var x=document.getElementById("form1");
+			function wypisz(){
+				var x = document.forms["form1"];
+				var text="";
+				for (i=0;i<x.length-1;i++){ //x.length to ilość elementów w formularzu; -1 ponieważ w formularzu jest też guzik, ale jego nie liczymy
+					text += x.elements[i].value + "<br>";
+
+				}
+				document.getElementById('lista').innerHTML = text;
+			}
+		</script>
+	</head>
+	<body>
+		<form id="form1" action="mailto:nauka@gmail.com" method="post">
+			Imię: <input type="text" name="imie" value="Jan"/><br />
+			Nazwisko: <input type="text" name="nazwisko" value="Kowalski" /><br />
+			<input type="button" onclick="wypisz()"value="Wypisz" />
+		</form>
+		<p>Lista elementów formularza:</p><br><p id="lista"></p>
+	</body>
+</html>

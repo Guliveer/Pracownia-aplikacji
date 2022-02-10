@@ -1,0 +1,15 @@
+﻿<html>
+	<head>
+		<script type="text/javascript">
+			
+			function klikaj(){
+				var k = document.getElementById("klik");
+				document.getElementById("guzik").value = k.value;
+			}
+		</script>
+	</head>
+	<body>
+		<input type="text" id="klik" value="Tekst"size="50" /><br>
+		<input type="button" id="guzik" value="Działaj!" onclick="klikaj()">
+	</body>
+</html>

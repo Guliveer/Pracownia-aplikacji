@@ -1,0 +1,17 @@
+﻿<!--
+dwa(20)
+dwa(30)
+dwa(40)
+dwa(50)
+dwa(60)
+function dwa(h){
+	document.write("Liczby podzielne przez '2' z zakresu 0-"+h+":<br>");
+	for(x=0; x<h; x++){
+		if((x%2) ==0)
+		document.write(x+", ");
+		continue;
+		
+	}
+	document.write("<br><br>");
+}
+// -->

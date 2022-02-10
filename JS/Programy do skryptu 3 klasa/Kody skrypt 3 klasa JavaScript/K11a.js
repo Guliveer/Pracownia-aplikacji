@@ -1,0 +1,10 @@
+
+<!--
+var i = 0;
+while (i++ < 5) {
+
+document.write("Pêtla wykonywana " + i +" raz/y</br>");
+
+}
+
+// -->

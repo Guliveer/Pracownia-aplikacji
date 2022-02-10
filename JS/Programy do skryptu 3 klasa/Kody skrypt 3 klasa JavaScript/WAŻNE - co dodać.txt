@@ -1,0 +1,10 @@
+﻿Ważne info:
+-K6 dopisać do skryptu na stronie 90 przed "Instrukcja SWITCH", jako przykład do if ... else,
+-dopisac w skrypcie K12 na stronie 94 przed "instrukcją BERAK",
+-przykład K15 dałem jako wypisywanie liczb podzielnych przez 2 z przedziało 0 - 60 (nie był on przydzielony numrekiem K),str 95
+-K16 - tabliczka mnożenia,str 95
+-dopisać K17 strone 96 do "Przykład programu z użyciem 'break' bądź 'continue'",
+-K47 nic nie wyświetla, to jest przykład odwołania się do 'form',
+-K62 i K63 - dołanczanie biblioteki jQuery, nic nie wyświetli,
+
+

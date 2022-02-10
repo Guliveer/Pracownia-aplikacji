@@ -1,0 +1,11 @@
+﻿function porownaj(a,b){
+			return a - b
+}	
+var Tablica = new Array(27,100,10,450,1654,320);
+document.write('Bez sortowania: ' + Tablica.join());
+document.write('<br>Sortowanie domyślne: ');
+Tablica.sort()
+document.write(Tablica.join());
+document.write('<br>Sortowanie poprawne: ');
+Tablica.sort(porownaj)
+document.write(Tablica.join());
