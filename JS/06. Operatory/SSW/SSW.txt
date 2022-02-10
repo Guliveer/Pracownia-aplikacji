@@ -1,7 +1,16 @@
-1. Wymień i opisz operatory logiczne.
+1. Wymień i opisz operatory logiczne. 
+Symbol:      Składnia:      Opis:
+  !             !x            Ten operator logiczny neguje wyrażenie
+  &&           x&&y           Operator logiczny AND  zwraca true, jeśli obie zmienne są prawdziwe (true)
+  ||           x||y           Operator logiczny OR zwraca true, jeśli co najmniej jedna ze zmiennych jest prawdziwa (true)
 
-
-2. Jakie znasz operacje dokonywane na bitach?
-
+2. Jakie znasz operacje dokonywane na bitach? 
+Symbol:      Składnia:      Opis:
+  &             x&y           Wykonuje bitową operację AND, która wyświetla 1, jeśli obie zmienne wynoszą 1.
+  ^             x^y           Wykonuje bitową operacje XOR, która wyświetla 1, jeśli jedna ze zmiennych (ale nie obie jednocześnie) wynosi 1.
+  |             x|y           Wykonuje bitową operacje OR, która wyświetla 1, jeśli jedna ze zmiennych wynosi 1.
+  <<           x<<y           Wykonuje przesunięcie bitów w lewo o podaną liczbę miejsc.
+  >>           x>>y           Wykonuje przesunięcie bitów w pawo o podaną liczbę miejsc.
 
 3. Co to jest inkrementacja i dekrementacja?
+Używając dwóch plusów “++” (inkrementacja) i dwóch minusów “--” (dekrementacja)
