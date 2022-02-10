@@ -1,0 +1,7 @@
+1. Wymień i opisz operatory logiczne.
+
+
+2. Jakie znasz operacje dokonywane na bitach?
+
+
+3. Co to jest inkrementacja i dekrementacja?

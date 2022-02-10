@@ -1,0 +1,74 @@
+1. Jakie operatory występują w języku JavaScript?
+arytmetyczne, łańcuchowe, bitowe, przypisania, porównania, logiczne
+
+
+2. Co to jest inkrementacja i dekrementacja?
+inkrementacja zwiększa daną wartość o jeden, zapisywana jest za pomocą dwóch plusów “++”
+dekrementacja zmniejsza daną wartość o jeden, zapisywana jest za pomocą dwóch minusów “--”
+
+
+3. Co to jest konkatencja?
+konkatencja jest operatorem logicznym AND
+
+
+4. Jak wykonywać operację przypisania?
+
+Symbol
+Składnia
+Opis
+
+=
+x=y
+Przypisuje wartość y do zmiennej x
+
++=
+x+=y
+Wykonuje przypisanie x=x+y
+
+-=
+x-=y
+Wykonuje przypisanie x=x-y
+
+*=
+x*=y
+Wykonuje przypisanie x=x*y
+
+/=
+x/=y
+Wykonuje przypisanie x=x/y
+
+%=
+x%=y
+Wykonuje przypisanie x=x%y
+
+<=
+x<=y
+Wykonuje przypisanie x=x<y
+
+^=
+x^=y
+Wykonuje przypisanie x=x^y
+
+|=
+x|=y
+Wykonuje przypisanie x=x|y
+
+<<=
+x<<=y
+Wykonuje przypisanie x=x<<y
+
+>>=
+x>>=y
+Wykonuje przypisanie x=x>>y
+
+>>>=
+x>>>=y
+Wykonuje przypisanie x=x>>>y
+
+
+5. Jak stosować operatory arytmetyczne, logiczne, bitowe?
+za pomocą odpowiedniej składni i symboli
+
+
+6. Jak wykorzystywać w skrypcie inkrementację i dekrementację?
+używając dwóch plusów “++” (inkrementacja) i dwóch minusów “--” (dekrementacja)
