@@ -1,0 +1,139 @@
+01. Program, który będzie wyświetlał bieżący dzień i godzinę w następującym formacie.
+
+02. Program, który drukuje zawartość bieżącego okna.
+
+03. Program, który uzyskuje aktualną datę.
+
+04. Program, który znajdzie obszar trójkąta, którego długość trzech jego boków wynosi 5, 6, 7.
+
+05. Program, który obraca ciąg „w3resource” we właściwym kierunku, od czasu do czasu usuwając jedną literę z końca ciągu i dołączając ją z przodu.
+
+06. Program, który określi, czy dany rok jest rokiem przestępnym w kalendarzu gregoriańskim.
+
+07. Program, który pomoże dowiedzieć się, że 1 stycznia jest niedzielą między 2014 a 2050 r.
+
+08. Program, który pobiera losową liczbę całkowitą od 1 do 10, a następnie użytkownik jest proszony o wprowadzenie liczby zgadywania. Jeśli dane wprowadzone przez użytkownika są zgodne z liczbą domysłów, program wyświetli komunikat „Dobra robota”, w przeciwnym razie wyświetli komunikat „Brak dopasowania”.
+
+09. Program, który obliczy dni pozostałych do następnych Świąt.
+
+10. Program, który obliczy mnożenia i dzielenia dwóch liczb (dane wejściowe od użytkownika).
+
+11. Program, który konwertuje temperatur do i z Celsjusza, Fahrenheita.
+
+12. Program, który uzyska adres URL witryny (strona ładowania).
+
+13. Program, który utworzy zmienną przy użyciu nazwy zdefiniowanej przez użytkownika.
+
+14. Program, który zdobędzie rozszerzenie pliku.
+
+15. Program, który uzyska różnicę między podaną liczbą a 13, jeśli liczba jest większa niż 13, zwróć podwójną różnicę bezwzględną.
+
+16. Program, który obliczy sumę dwóch podanych liczb całkowitych. Jeśli te dwie wartości są takie same, zwraca potrójną ich sumę.
+
+17. Program, który obliczy różnicę bezwzględną między określoną liczbą a 19. Zwraca potrójną różnicę bezwzględną, jeśli określona liczba jest większa niż 19.
+
+18. Program, który sprawdzi dwie podane liczby i zwracający prawdę, jeśli jedna z nich to 50 lub jeśli ich suma wynosi 50.
+
+19. Program, który sprawdzi, czy dana liczba całkowita mieści się w zakresie 20 od 100 lub 400.
+
+20. Program, który sprawdzi z dwóch podanych liczb całkowitych, czy jedna jest dodatnia, a druga ujemna.
+
+21. Program, który utworzy nowy ciąg, dodając „Py” przed podanym ciągiem. Jeśli dany ciąg zaczyna się od „Py”, zwróć oryginalny ciąg.
+
+22. Program, który usuwa znak w określonej pozycji danego ciągu i zwraca nowy ciągu.
+
+23. Program, który utworzy nowy ciąg z podanego ciągu, zmieniając położenie pierwszego i ostatniego znaku. Długość ciągu musi być większa lub równa 1.
+
+24. Program, który utworzy nowy napis z podanego napisu z pierwszym znakiem danego napisu dodanym z przodu i z tyłu.
+
+25. Program, który sprawdzi, czy dana liczba dodatnia jest wielokrotnością 3 czy wielokrotnością 7.
+
+26. Program, który utworzy nowy ciąg z podanego ciągu, biorąc ostatnie 3 znaki i dodając zarówno z przodu, jak iz tyłu. Długość ciągu musi wynosić 3 lub więcej.
+
+27. Program, który sprawdzi, czy ciąg zaczyna się od 'Java' i false w przeciwnym razie.
+
+28. Program, który sprawdzi, czy dwie podane wartości całkowite znajdują się w przedziale 50..99 (włącznie). Zwróć prawdę, jeśli którykolwiek z nich znajduje się we wspomnianym zakresie.
+
+29. Program, który sprawdzi, czy trzy podane wartości całkowite mieszczą się w zakresie 50..99 (włącznie). Zwróć wartość true, jeśli co najmniej jeden z nich znajduje się we wspomnianym zakresie.
+
+30. Program, który sprawdzi, czy ciąg „Skrypt” znajduje się na 5 (indeks 4) pozycji w danym ciągu, jeśli „Skrypt” występuje w ciągu zwróci ciąg bez „Skryptu”, w przeciwnym razie zwróci oryginalny.
+
+31. Program, który znajdzie największą z trzech podanych liczb całkowitych.
+
+32. Program, który znajdzie wartość najbliższą 100 z dwóch różnych podanych wartości całkowitych.
+
+33. Program, który sprawdzi, czy dwie liczby znajdują się w przedziale 40..60 lub w przedziale 70..100 włącznie.
+
+34. Program, który znajdzie większą liczbę z dwóch podanych dodatnich liczb całkowitych, te dwie liczby są z zakresu 40..60 włącznie.
+
+35. Program, który sprawdzi, czy określony znak istnieje na 2 do 4 pozycji w danym łańcuchu.
+
+36. Program, który sprawdzi, czy ostatnia cyfra z trzech podanych dodatnich liczb całkowitych jest taka sama
+
+37. Program, który utworzy nowy ciąg znaków, w którym pierwsze 3 znaki są pisane małymi literami z danego ciągu. Jeśli długość ciągu jest mniejsza niż 3, zamień wszystkie znaki na duże.
+
+38. Program, który sprawdzi sumaryczne oceny ucznia z różnych egzaminów. Student otrzyma ocenę A+, jeśli suma ocen mieści się w przedziale 89..100 włącznie, jeśli egzamin jest „egzaminem końcowym”. uczeń otrzyma ocenę A+, a suma punktów musi być większa lub równa 90. Zwróć prawdę, jeśli uczeń otrzyma ocenę A+ lub fałsz w przeciwnym razie.
+
+39. Program, który obliczy sumę dwóch podanych liczb całkowitych. Jeśli suma mieści się w zakresie 50..80 zwróć 65 w przeciwnym razie zwróć 80.
+
+40. Program, który sprawdzi z dwóch podanych liczb całkowitych, czy jedna z nich wynosi 8, czy ich suma lub różnica wynosi 8.
+
+41. Program, który sprawdzi trzy podane liczby, jeśli trzy są takie same, zwróć 30, w przeciwnym razie zwróć 20, a jeśli dwie liczby są takie same, zwróć 40.
+
+42. Program, który sprawdzi, czy trzy podane liczby rosną w trybie ścisłym, czy w trybie miękkim.
+
+43. Program, który sprawdzi na podstawie trzech podanych liczb (nieujemnych liczb całkowitych), że dwie lub wszystkie z nich mają tę samą cyfrę po prawej stronie.
+
+44. Program, który sprawdzi na podstawie trzech podanych liczb całkowitych, czy liczba jest większa lub równa 20 i mniejsza niż jedna z pozostałych.
+
+45. Program, który sprawdzi dwie podane wartości całkowite i zwróci prawdę, jeśli jedna z tych liczb to 15 lub jeśli ich suma lub różnica wynosi 15.
+
+46. Program, który sprawdzi dwie podane nieujemne liczby całkowite, czy jedna z tych liczb (nie obie) jest wielokrotnością 7 lub 11.
+
+47. Program, który sprawdzi, czy dana liczba znajduje się w przedziale 40..10000.
+
+48. Program, który odwróci dany ciąg.
+
+49. Program, który zamieni każdy znak w danym ciągu znaków na następujący po nim znak w alfabecie.
+
+50. Program, który będzie kapitalizował pierwszą literę każdego słowa w danym łańcuchu.
+
+51. Program, który przekonwertuje podaną liczbę na godziny i minuty.
+
+52. Program, który służy do konwersji liter danego ciągu w kolejności alfabetycznej.
+
+53. Program, który sprawdzi, czy znaki a i b są oddzielone dokładnie 3 miejscami w dowolnym miejscu (przynajmniej raz) w danym ciągu.
+
+54. Program, który służy do zliczania samogłosek w danym ciągu.
+
+55. Program, który sprawdzi, czy dany ciąg zawiera równą liczbę p i t.
+
+56. Program, który dzieli dwie liczby dodatnie i zwracający łańcuch z odpowiednio sformatowanymi przecinkami.
+
+57. Program, który utworzy nowy ciąg z określonych kopii (liczba dodatnia) danego ciągu.
+
+58. Program, który utworzy nowy ciąg 4 kopii ostatnich 3 znaków z danego oryginalnego ciągu. Długość danego ciągu musi wynosić 3 i więcej.
+
+59. Program, który wyodrębni pierwszą połowę ciągu parzystej długości.
+
+60. Program, który utworzy nowy ciąg bez pierwszego i ostatniego znaku danego ciągu.
+
+61. Program, który połączy dwa ciągi znaków z wyjątkiem ich pierwszego znaku.
+
+62. Program, który przeniesie ostatnie trzy znaki na początek danego ciągu. Długość ciągu musi być większa lub równa trzy.
+
+63. Program, który utworzy ciąg znaków, używając trzech środkowych znaków danego ciągu o nieparzystej długości. Długość ciągu musi być większa lub równa trzy.
+
+64. Program, który połączy dwa ciągi i zwróci wynik. Jeśli długość ciągów nie jest taka sama, usuń znaki z dłuższego ciągu.
+
+65. Program, który sprawdzi, czy ciąg kończy się na „Script”. Długość ciągu musi być większa lub równa 6.
+
+66. Program, który wyświetli nazwę miasta, jeśli ciąg zaczyna się od „Los” lub „Nowy”, w przeciwnym razie zwróci puste.
+
+67. Program, który utworzy nowy ciąg z podanego ciągu, usuwając pierwszy i ostatni znak ciągu, jeśli pierwszy lub ostatni znak to 'P'. Zwróć oryginalny ciąg, jeśli warunek nie jest spełniony
+
+68. Program, który utworzy nowy ciąg znaków, używając pierwszych i ostatnich n znaków z danego ciągu. Długość ciągu musi być większa lub równa n.
+
+69. Program, który obliczy sumę trzech elementów danej tablicy liczb całkowitych o długości 3
+
+70. Program, który obróci elementy na lewo od podanej tablicy liczb całkowitych o długości 3
