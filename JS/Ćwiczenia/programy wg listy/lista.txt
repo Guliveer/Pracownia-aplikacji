@@ -137,3 +137,63 @@
 69. Program, który obliczy sumę trzech elementów danej tablicy liczb całkowitych o długości 3
 
 70. Program, który obróci elementy na lewo od podanej tablicy liczb całkowitych o długości 3
+
+71. Program, który sprawdzi, czy 1 pojawia się na pierwszej lub ostatniej pozycji danej tablicy liczb całkowitych. Długość tablicy musi być większa lub równa 1.
+
+72. Program, który sprawdzi, czy pierwszy i ostatni element są równe danej tablicy liczb całkowitych o długości 3.
+
+73. Program, który odwróci elementy danej tablicy liczb całkowitych o długości 3.
+
+74. Program, który znajdzie większą wartość między pierwszym lub ostatnim i ustawi wszystkie inne elementy na tę wartość. Wyświetl nową tablicę.
+
+75. Program, który utworzy nową tablicę, biorąc środkowe elementy dwóch tablic o wartościach całkowitych i każdej długości 3.
+
+76. Program, który utworzy nową tablicę, biorąc pierwszy i ostatni element z danej tablicy liczb całkowitych, a długość musi być większa lub równa 1.
+
+77. Program, który sprawdzi, czy tablica liczb całkowitych o długości 2 zawiera 1 czy 3.
+
+78. Program, który sprawdzi, czy tablica liczb całkowitych o długości 2 nie zawiera 1 lub 3.
+
+79. Program, który sprawdzi, czy dana tablica liczb całkowitych zawiera dwa razy 30 i 40. Długość tablicy powinna wynosić 0, 1 lub 2.
+
+80. Program, który zamieni pierwszy i ostatni element danej tablicy liczb całkowitych. Długość tablicy powinna wynosić co najmniej 1.
+
+81. Program, który doda dwie cyfry podanej dodatniej liczby całkowitej o długości dwa.
+
+82. Program, który doda dwie dodatnie liczby całkowite bez przeniesienia.
+
+83. Program, który znaleźć najdłuższy ciąg z podanej tablicy ciągów.
+
+84. Program, który zastąpi każdy znak danego ciągu kolejnym w alfabecie angielskim
+
+85. Program, który podzieli daną tablicę dodatnich liczb całkowitych na dwie części. Pierwszy element trafia do pierwszej części, drugi do drugiej, trzeci do pierwszej i tak dalej. Teraz oblicz sumę dwóch części i zapisz w tablicy o rozmiarze dwa.
+
+86. Program, który znajdzie typy danego kąta.
+
+87. Program, który sprawdzi, czy dwie tablice liczb całkowitych o tej samej długości są podobne, czy nie. Tablice będą podobne, jeśli jedną tablicę można uzyskać z innej tablicy poprzez zamianę co najwyżej jednej pary elementów.
+
+88. Program, który sprawdzi, czy dwie podane liczby całkowite są podobne, czy nie, jeśli dany dzielnik dzieli obie liczby całkowite i nie dzieli.
+
+89. Program, który sprawdzi, czy można zastąpić $ w danym wyrażeniu x $ y = z jednym z czterech znaków +, -, * lub / w celu uzyskania poprawnego wyrażenia.
+
+90. Program, który znajdzie k-ty największy element danej tablicy liczb całkowitych
+
+91. Program, który znajdzie maksymalną możliwą sumę niektórych z jego k kolejnych liczb (liczb, które następują po sobie w kolejności.) z danej tablicy liczb całkowitych dodatnich.
+
+92. Program, który znajdzie maksymalną różnicę między dowolnymi dwoma sąsiadującymi elementami danej tablicy liczb całkowitych
+
+93. Program, który znajdzie maksymalną różnicę między wszystkimi możliwymi parami danej tablicy liczb całkowitych.
+
+94. Program, który znajdzie liczbę, która najczęściej pojawia się w danej tablicy liczb całkowitych.
+
+95. Program, który zastąpi wszystkie liczby określoną liczbą z danej tablicy liczb całkowitych.
+
+96. Program, który obliczy sumy różnic bezwzględnych kolejnych liczb w danej tablicy liczb całkowitych
+
+97. Program, który znajdzie najkrótszy możliwy ciąg, który może utworzyć ciąg, który zmieni go w palindrom, dodając znaki na jego końcu.
+
+98. Program, który zmieni wielkość liter na minimalną możliwą liczbę liter, aby dany ciąg był pisany wielkimi lub małymi literami.
+
+99. Program, który sprawdzi, czy jest możliwe przestawienie znaków danego napisu w taki sposób, aby stał się on równy innemu podanemu napisowi.
+
+100. Program, który sprawdzić, czy istnieje przynajmniej jeden element, który występuje w dwóch podanych posortowanych tablicach liczb całkowitych.
