@@ -1,0 +1,17 @@
+1. Program dodaje liczbę do słowa.
+2. Program dodaje słowo do liczby.
+3. Program dodaje 16+4+Volvo.
+4. Program dodaje Volvo+16+4.
+5. Program przechowuje w jednej zmiennej różne typy danych przy pomocy typu dynamicznego.
+6. Program wypisuje ciągi za pomocą pojedynczego i podwójnego cudzysłowia.
+7. Program wypisuje ciągi za pomocą pojedynczego i podwójnego cudzysłowia z cudzysłowiem w ciagu.
+8. Program zapisuje liczby z miejscami dziesiętnymi i bez nich.
+9. Program zapisuje liczby w notacji wykładniczej.
+10. Program zwraca wartości logiczne - true/false.
+11. Program tworzy tablicę cars, zawierającą trzy elementy.
+12. Program zapisuje właściwości obiektu jako pary nazwa:wartość oddzielone przecinkami.
+13. Program zwraca typ zmiennej za pomocą typeof.
+14. Program zwraca typ wyrażenia za pomocą typeof.
+15. Program ustawia zmienną bez wartości.
+16. Program ustawia zmienną bez wartości w inny sposób/
+17. Program ustawia pusty ciąg.

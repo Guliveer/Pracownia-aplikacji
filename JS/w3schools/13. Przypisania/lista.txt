@@ -1,0 +1,6 @@
+1. Operator = przypisuje wartość do zmiennej.
+2. Operator += dodaje wartość do zmiennej
+3. Operator -= odejmuje wartość od zmiennej.
+4. Operator *= mnoży zmienną.
+5. Operator /= dzieli zmienną.
+6. Operator %= przypisuje resztę z dzielenia do zmiennej.

@@ -1,0 +1,15 @@
+01. Dwie liczby mogą być literałami
+02. Dwie liczby mogą być zmiennymi
+03. Dwie liczby mogą być wyrażeniami
+04. Operator dodawania (+) dodaje liczby
+05. Operator odejmowania (-) odejmuje liczby
+06. Operator mnożenia (*) mnoży liczby
+07. Operator dzielenia (/) dzieli liczby
+08. Operator modulo (%) zwraca resztę z dzielenia
+09. Operator inkrementacji (++) zwiększa liczby
+10. Operator dekrementacji (--) zmniejsza liczby
+11. Operator potęgowania (**) podnosi pierwszy operand do potęgi drugiego operandu
+12. x ** y daje taki sam wynik jak Math.pow(x,y)
+13. Pierwszeństwo operatorów opisuje kolejność wykonywania operacji w wyrażeniu arytmetycznym
+14. Mnożenie (*) i dzielenie (/) mają wyższy priorytet niż dodawanie (+) i odejmowanie (-). I (jak w matematyce szkolnej) pierwszeństwo można zmienić za pomocą nawiasów
+15. Gdy wiele operacji ma ten sam priorytet (jak dodawanie i odejmowanie), są one obliczane od lewej do prawej
