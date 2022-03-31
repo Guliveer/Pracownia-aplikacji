@@ -1,0 +1,16 @@
+01. W tym przykładzie x, y, z są zmiennymi zadeklarowanymi za pomocą słowa kluczowego var
+02. W tym przykładzie x, y, z są zmiennymi zadeklarowanymi za pomocą słowa kluczowego let
+03. W tym przykładzie x, y, z to niezadeklarowane zmienne
+04. W tym przykładzie price1, price2, total są zmiennymi
+05. Ciągi są pisane w podwójnych lub pojedynczych cudzysłowach. Jeśli umieścisz liczbę w cudzysłowie, będzie ona traktowana jako ciąg tekstowy
+06. W poniższym przykładzie tworzymy zmienną o nazwie carName i przypisujemy jej wartość „Volvo”. Następnie "wypisujemy" wartość wewnątrz akapitu HTML z id="demo".
+07. W jednej instrukcji można zadeklarować wiele zmiennych. Rozpocznij instrukcję od let i oddziel zmienne przecinkami
+08. Deklaracja może obejmować wiele wierszy
+09. Zmienna carName będzie miała wartość undefinedpo wykonaniu tej instrukcji
+10. Jeśli ponownie zadeklarujesz zmienną JavaScript zadeklarowaną za pomocą var, nie straci ona swojej wartości. Po wykonaniu tych instrukcji zmienna carName nadal będzie miała wartość „Volvo”
+11. Podobnie jak w przypadku algebry, możesz wykonywać arytmetykę ze zmiennymi JavaScript, używając operatorów takich jak = i +
+12. Możesz także dodać ciągi, ale ciągi zostaną połączone
+13. Wynik dodawania "5" + 2 + 3
+14. Wynik dodawania 2 + 3 + "5"
+15. Ponieważ JavaScript traktuje znak dolara jako literę, identyfikatory zawierające $ są poprawnymi nazwami zmiennych
+16. Ponieważ JavaScript traktuje podkreślenie jako literę, identyfikatory zawierające _ są poprawnymi nazwami zmiennych

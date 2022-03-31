@@ -1,0 +1,6 @@
+1. Program który podaje sumę liczb x oraz y.
+2. Program który dla elementu z ID demo pisze Hello Dolly.
+3. Program który sumuje liczby a oraz b.
+4. Program który sumuje liczby a oraz b.
+5. Program który dla elementu z ID demo pisze Hello Dolly.
+6. Program który dla elementu z ID demo1 pisze Hello Dolly Program który dla elementu z ID demo2 pisze How are you?

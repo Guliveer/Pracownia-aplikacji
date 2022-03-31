@@ -1,0 +1,8 @@
+1. Przypisz wartości do zmiennych i dodaj je razem:
+2. Operator przypisania ( =) przypisuje wartość do zmiennej.
+3. Operator dodawania ( +) dodaje liczby:
+4. Operator mnożenia ( *) mnoży liczby.
+5. Operator przypisania dodawania ( +=) dodaje wartość do zmiennej.
+6. Operator +może być również używany do dodawania (konkatenacji) ciągów.
+7. Operator +=przypisania może być również używany do dodawania (konkatenacji) ciągów:
+8. Dodanie dwóch liczb zwróci sumę, ale dodanie liczby i ciągu znaków zwróci ciąg:

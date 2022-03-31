@@ -1,0 +1,7 @@
+01. W HTML kod JavaScript jest wstawiany między tagami <script> i </script>
+02. W tym przykładzie kod JavaScript function jest umieszczony w <head> sekcji strony HTML. Funkcja jest wywoływana po kliknięciu przycisku
+03. W tym przykładzie kod JavaScript function jest umieszczony w <body> sekcji strony HTML. Funkcja jest wywoływana po kliknięciu przycisku
+04. Aby użyć zewnętrznego skryptu, umieść nazwę pliku skryptu w atrybucie src (źródło) znacznika <script>
+05. Ten przykład używa pełnego adresu URL do linku do myScript.js
+06. W tym przykładzie użyto ścieżki pliku do linku do myScript.js
+07. Ten przykład nie używa ścieżki do linku do myScript.js

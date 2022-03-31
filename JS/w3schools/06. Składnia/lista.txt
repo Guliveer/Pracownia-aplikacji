@@ -1,0 +1,12 @@
+1. Liczby są zapisywane z lub bez miejsc dziesiętnych:
+2. Ciągi to tekst, pisany w cudzysłowie podwójnym lub pojedynczym:
+3. W tym przykładzie x jest zdefiniowane jako zmienna. Wtedy x jest przypisywana (podana) wartość 6
+4. JavaScript używa operatorów arytmetycznych ( + - * /) do obliczania wartości:
+5. JavaScript używa operatora przypisania ( =) do przypisywania wartości do zmiennych:
+6. Na przykład 5 * 10 daje 50:
+7. Wyrażenia mogą również zawierać wartości zmiennych:
+8. Na przykład „Jan” + „ ” + „Kowalski” daje wynik „Jan Kowalski”:
+9. Słowo letkluczowe mówi przeglądarce, aby utworzyła zmienne:
+10. Słowo varkluczowe mówi również przeglądarce, aby utworzyła zmienne:
+11. Komentarze są ignorowane i nie zostaną wykonane.
+12. Zmienne lastNamei lastname, to dwie różne zmienne

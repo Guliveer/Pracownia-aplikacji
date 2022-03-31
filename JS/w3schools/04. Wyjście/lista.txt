@@ -1,0 +1,7 @@
+01. Atrybut id definiuje element HTML. Właściwość innerHTML definiuje zawartość HTML
+02. Do celów testowych wygodnie jest używać document.write()
+03. Użycie document.write() po załadowaniu dokumentu HTML spowoduje usunięcie całego istniejącego HTML
+04. Możesz użyć pola alertu, aby wyświetlić dane
+05. W JavaScript obiekt window jest obiektem zasięgu globalnego, co oznacza, że ​​zmienne, właściwości i metody domyślnie należą do obiektu window. Oznacza to również, że określenie słowa kluczowego windo jest opcjonalne
+06. Do celów debugowania możesz wywołać metodę console.log() w przeglądarce, aby wyświetlić dane
+07. Nie możesz uzyskać dostępu do urządzeń wyjściowych z JavaScript. Jedynym wyjątkiem jest to, że możesz wywołać metodę window.print() w przeglądarce, aby wydrukować zawartość bieżącego okna

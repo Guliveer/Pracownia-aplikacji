@@ -1,0 +1,6 @@
+1. Ponowne zadeklarowanie zmiennej za pomocą słowa kluczowego var może nastręczać problemy. Ponowne zadeklarowanie zmiennej wewnątrz bloku spowoduje również ponowne zadeklarowanie zmiennej poza blokiem.
+2. Ponowne zadeklarowanie zmiennej za pomocą słowa kluczowego let może rozwiązać ten problem. Ponowne zadeklarowanie zmiennej wewnątrz bloku nie spowoduje ponownego zadeklarowania zmiennej poza blokiem.
+3. Ponowne zadeklarowanie zmiennej JavaScript z var jest dozwolone w dowolnym miejscu programu.
+4. Ponowne zadeklarowanie zmiennej z let, w innym bloku, JEST dozwolone.
+5. Zmienne zdefiniowane za pomocą var są podnoszone do góry i można je zainicjować w dowolnym momencie. Znaczenie: Możesz użyć zmiennej przed jej zadeklarowaniem.
+6. Zmienne zdefiniowane za pomocą let są również podnoszone na górę bloku, ale nie są inicjowane. Znaczenie: Użycie zmiennej let przed jej zadeklarowaniem spowoduje ReferenceError.

@@ -1,0 +1,6 @@
+01. Skrypt "znajduje" element HTML (z id="demo") i zmienia zawartość elementu (innerHTML) na "Hello JavaScript"
+02. Skrypt "znajduje" element HTML (z id="demo") i zmienia zawartość elementu (innerHTML) na "Hello JavaScript"
+03. W tym przykładzie JavaScript zmienia wartość src atrybutu (źródło) <img> tagu
+04. Zmiana stylu elementu HTML to wariant zmiany atrybutu HTML
+05. Ukrywanie elementów HTML można wykonać poprzez zmianę display stylu
+06. Pokazywanie ukrytych elementów HTML można również wykonać zmieniając styl "display"

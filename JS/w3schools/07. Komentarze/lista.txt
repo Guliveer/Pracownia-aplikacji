@@ -1,0 +1,5 @@
+01. W tym przykładzie zastosowano komentarz jednowierszowy przed każdą linią kodu
+02. W tym przykładzie zastosowano komentarz w jednym wierszu na końcu każdego wiersza, aby wyjaśnić kod
+03. W tym przykładzie zastosowano komentarz wielowierszowy (blok komentarza) w celu wyjaśnienia kodu
+04. W tym przykładzie użyto //, aby uniemożliwić wykonanie jednej z linii kodu
+05. W tym przykładzie zastosowano blok komentarza, aby zapobiec wykonaniu wielu wierszy

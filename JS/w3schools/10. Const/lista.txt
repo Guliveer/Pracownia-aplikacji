@@ -1,0 +1,8 @@
+1. Zmienna constnie może być ponownie przypisana
+2. Możesz zmienić elementy tablicy stałej 
+3. Nie możesz zmienić przypisania tablicy
+4. Możesz zmienić właściwości obiektu stałego
+5. Nie możesz zmienić przypisania obiektu
+6. Deklarowanie zmiennej with const jest podobne do let deklarowania Block Scope. x zadeklarowany w bloku, w tym przykładzie, nie jest taki sam jak x zadeklarowany poza blokiem
+7. Zmienne zdefiniowane za pomocą var są podnoszone do góry i można je zainicjować w dowolnym momencie. Znaczenie: Możesz użyć zmiennej przed jej zadeklarowaniem
+8. Zmienne zdefiniowane za pomocą const są również podnoszone na górę, ale nie są inicjowane. Znaczenie: Użycie const zmiennej przed jej zadeklarowaniem spowoduje ReferenceError

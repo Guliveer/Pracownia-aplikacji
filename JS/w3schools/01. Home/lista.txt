@@ -1,0 +1,1 @@
+01. Skrypt wyświetla datę i czas
