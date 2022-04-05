@@ -1,0 +1,6 @@
+01. Funkcja JavaScript jest wykonywana, gdy "coś" ją wywołuje
+02. Jeśli funkcja została wywołana z instrukcji, JavaScript "powróci", aby wykonać kod po instrukcji wywołującej
+03. Możesz użyć tego samego kodu wiele razy z różnymi argumentami, aby uzyskać różne wyniki
+04. Dostęp do funkcji bez () zwróci obiekt funkcji zamiast wyniku funkcji
+05. Funkcji można używać w taki sam sposób, jak zmiennych, we wszystkich typach formuł, przypisań i obliczeń
+06. Dostęp do zmiennych lokalnych można uzyskać tylko z poziomu funkcji
