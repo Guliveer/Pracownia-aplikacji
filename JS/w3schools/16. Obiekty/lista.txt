@@ -1,0 +1,8 @@
+01. Ten kod przypisuje prostą wartość (Fiat) do zmiennej o nazwie samochód
+02. Ten kod przypisuje wiele wartości (Fiat, 500, biały) do zmiennej o nazwie samochód
+03. Definiujesz (i tworzysz) obiekt JavaScript za pomocą literału obiektu
+04. Ten kod robi to, co powyższy, ze spacjami i łamanymi wierszami
+05. Program uzyskuje dostęp do właściwości obiektu
+06. Program uzyskuje dostęp do właściwości obiektu w inny sposób
+07. Program uzyskuje dostęp do metody obiektu
+08. Program uzyskuje dostęp do metody obiektu metodą bez nawiasów
