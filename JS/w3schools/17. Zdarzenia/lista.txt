@@ -1,0 +1,3 @@
+01. W tym przykładzie atrybut onclick jest dodany do elementu button.
+02. W tym przykładzie kod zmienia zawartość własnego elementu za pomocą this.innerHTML.
+03. W tym przykładzie atrybut zdarzeń wywołuje funkcję.

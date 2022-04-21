@@ -1,0 +1,61 @@
+01. Liczby mog¹ byæ zapisywane z lub bez miejsc dziesiêtnych
+
+02. Liczby bardzo du¿e lub bardzo ma³e mo¿na zapisaæ w notacji wyk³adniczej
+
+03. Liczby ca³kowite (liczby bez kropki lub wyk³adnika) maj¹ dok³adnoœæ do 15 cyfr
+
+04. Arytmetyka zmiennoprzecinkowa nie zawsze jest dok³adna w 100%
+
+05. Arytmetyka zmiennoprzecinkowa nie zawsze jest w 100% dok³adna, ale mno¿enie i dzielenie pomaga
+
+06. Jeœli dodasz dwie liczby, wynikiem bêdzie liczba
+
+07. Jeœli dodasz dwa ci¹gi liczbowe, wynikiem bêdzie po³¹czony ci¹g
+
+08. Jeœli dodasz liczbê i ci¹g liczbowy, wynikiem bêdzie po³¹czony ci¹g
+
+09. Jeœli dodasz liczbê i ci¹g liczbowy, wynikiem bêdzie po³¹czony ci¹g
+
+10. Czêstym b³êdem jest oczekiwanie, ¿e wynik ten wyniesie 30
+
+11. Czêstym b³êdem jest oczekiwanie, ¿e ten wynik bêdzie 102030
+
+12. JavaScript spróbuje przekonwertowaæ ci¹gi na liczby podczas dzielenia
+
+13. JavaScript spróbuje przekonwertowaæ ci¹gi na liczby podczas mno¿enia
+
+14. JavaScript spróbuje przekonwertowaæ ci¹gi na liczby podczas odejmowania
+
+15. JavaScript NIE konwertuje ci¹gów znaków na liczby podczas dodawania
+
+16. Liczba podzielona ci¹giem nienumerycznym staje siê NaN (Not a Number)
+
+17. Liczba podzielona przez ci¹g liczbowy staje siê liczb¹
+
+18. Mo¿esz u¿yæ globalnej funkcji JavaScript isNaN(), aby dowiedzieæ siê, czy wartoœæ nie jest liczb¹
+
+19. Jeœli u¿yjesz NaN w operacji matematycznej, wynikiem bêdzie równie¿ NaN
+
+20. Jeœli u¿yjesz NaN w operacji matematycznej, wynikiem mo¿e byæ konkatenacja
+
+21. Rodzaj NaN to liczba
+
+22. Nieskoñczonoœæ jest zwracana, jeœli obliczysz liczbê poza najwiêksz¹ mo¿liw¹ liczb¹
+
+23. Dzielenie przez zero generuje nieskoñczonoœæ
+
+24. Nieskoñczonoœæ jest liczb¹
+
+25. Sta³e numeryczne poprzedzone 0x s¹ interpretowane jako szesnastkowe
+
+26. Metoda toString() mo¿e wyprowadzaæ liczby od podstawy 2 do 36
+
+27. Liczby mo¿na równie¿ zdefiniowaæ jako obiekty za pomoc¹ s³owa kluczowego new
+
+28. Liczby i obiekty liczbowe nie mog¹ byæ porównywane, u¿ywaj¹c == operatora, x i y s¹ równe
+
+29. Liczby i obiekty liczbowe nie mog¹ byæ porównywane, u¿ywaj¹c === operatora, x i y s¹ nie równe
+
+30. Nie mo¿na porównywaæ obiektów JavaScript
+
+31. Nie mo¿na porównywaæ obiektów JavaScript

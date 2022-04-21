@@ -1,0 +1,59 @@
+01. W³aœciwoœæ length zwraca d³ugoœæ ci¹gu
+
+02. Metoda slice() wyodrêbnia czêœæ ci¹gu i zwraca wyodrêbnione czêœci w nowym ci¹gu
+
+03. Jeœli parametr jest ujemny, pozycja jest liczona od koñca ci¹gu
+
+04. Jeœli pominiesz drugi parametr, metoda wytnie resztê ci¹gu
+
+05. Jeœli pominiesz drugi parametr, a pierwszy jest ujemny, metoda wytnie resztê ci¹gu od koñca
+
+06. Metoda substring() wyodrêbnia czêœæ ci¹gu i zwraca wyodrêbnione czêœci w nowym ci¹gu, ró¿nica polega na tym, ¿e substring()nie mo¿na zaakceptowaæ indeksów ujemnych
+
+07. Metoda substr() wyodrêbnia czêœæ ci¹gu i zwraca wyodrêbnione czêœci w nowym ci¹gu, ró¿nica polega na tym, ¿e drugi parametr okreœla d³ugoœæ wyodrêbnionej czêœci
+
+08. Jeœli pominiesz drugi parametr, substr() wytnie resztê ci¹gu
+
+09. Jeœli pierwszy parametr jest ujemny, pozycja liczy siê od koñca ci¹gu
+
+10. Metoda replace() zastêpuje okreœlon¹ wartoœæ inn¹ wartoœci¹ w ci¹gu
+
+11. Domyœlnie replace() metoda zastêpuje tylko pierwsze dopasowanie
+
+12. Domyœlnie w metodzie replace() rozró¿niana jest wielkoœæ liter.
+
+13. Aby zamieniæ wielkoœæ liter bez rozró¿niania, u¿yj wyra¿enia regularnego z /i
+
+14. Aby zast¹piæ wszystkie dopasowania, u¿yj wyra¿enia regularnego z /g
+
+15. Ci¹g jest konwertowany na wielkie litery za pomoc¹ toUpperCase()
+
+16. Ci¹g jest konwertowany na ma³e litery za pomoc¹ toLowerCase()
+
+17. concat() ³¹czy dwa lub wiêcej ci¹gów
+
+18. Metoda trim() usuwa bia³e znaki z obu stron ci¹gu
+
+19. Metoda padStart() dope³nia ci¹g innym ci¹giem
+
+20. Metoda padStart() dope³nia ci¹g innym ci¹giem
+
+21. Metoda padStart() jest metod¹ ³añcuchow¹, aby uzupe³niæ liczbê, najpierw przekonwertuj j¹ na ci¹g
+
+22. Metoda padEnd() dope³nia ci¹g innym ci¹giem
+
+23. Metoda padEnd() dope³nia ci¹g innym ci¹giem
+
+24. Metoda padEnd() jest metod¹ ³añcuchow¹, aby uzupe³niæ liczbê, najpierw przekonwertuj j¹ na ci¹g.
+
+25. Metoda charAt() zwraca znak o okreœlonym indeksie (pozycji) w ci¹gu znaków
+
+26. Metoda charCodeAt() zwraca unicode znaku o okreœlonym indeksie w ci¹gu
+
+27. ECMAScript 5 umo¿liwia dostêp do w³aœciwoœci w ci¹gach
+
+28. ES5 (2009) umo¿liwia dostêp do w³aœciwoœci na ci¹gach. Ale tylko do odczytu
+
+29. Ci¹g znaków mo¿na przekonwertowaæ na tablicê za pomoc¹ metody split()
+
+30. Jeœli separatorem jest „”, zwrócona tablica bêdzie tablic¹ pojedynczych znaków

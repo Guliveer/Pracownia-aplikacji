@@ -1,0 +1,14 @@
+01. Metoda indexOf() zwraca indeks (pozycję) firstwystąpienia określonego tekstu w ciągu znaków.
+02. Metoda lastIndexOf()zwraca indeks ostatniego wystąpienia określonego tekstu w ciągu.
+03. Oba indexOf()i lastIndexOf()zwracają -1, jeśli tekst nie zostanie znaleziony.
+04. Metoda indexOf() akceptuje drugi parametr jako pozycję wyjściową wyszukiwania:
+05. Metoda lastIndexOf() akceptuje drugi parametr jako pozycję początkową wyszukiwania.
+06. Metoda search() zwraca pozycję pierwszego wystąpienia określonego tekstu w ciągu znaków:
+07. Metoda match() przeszukuje ciąg w poszukiwaniu dopasowania do wyrażenia regularnego i zwraca dopasowania jako obiekt Array.
+08. Program przeprowadza globalne wyszukiwanie dla "ain".
+09. Metoda includes()zwraca true, jeśli ciąg zawiera określoną wartość.
+10. Program sprawdza, czy ciąg zawiera "świat", zaczynając od pozycji 12.
+11. Metoda startsWith()zwraca true , jeśli ciąg zaczyna się od określonej wartości, w przeciwnym razie false.
+12. Program wykonuje metodę startsWith()/
+13. Program sprawdza, czy ciąg kończy się na "Doe".
+14. Program sprawdza, czy 11 pierwszych znaków ciągu kończy się na „świat”.

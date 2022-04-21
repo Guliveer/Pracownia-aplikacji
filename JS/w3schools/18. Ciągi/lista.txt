@@ -1,0 +1,16 @@
+01. Program wyświetla ciąg.
+02. Program wyświetla ciąg wpisany w cudzysłowie.
+03. Program wyświetla ciąg ujęty w cudzysłowie.
+04. Program zwraca długość ciągu.
+05. Program wyświetla ciąg ze słowem w nim wpisanym w cudzysłowie.
+06. Program wyświetla ciąg ze słowem z wpisanym pojedynczym cudzysłowiem.
+07. Program wyświetla ciąg z odwrotnym ukośnikiem w ciągu.
+08. Program wyświetla ciąg podzielony na dwie linie.
+09. Program wyświetla ciąg podzielony na dwie linie za pomocą pojedynczego ukośnika odwrotnego.
+10. Program wyświetla ciąg podzielony na dwie linie za pomocą łączenia ciągu, co jest bezpieczniejszą metodą od poprzednich.
+11. Program wyświetla błędnie, ponieważ kod został niepoprawnie podzielony.
+12. Program definiuje łańcuch jako obiekt za pomocą słowa kluczowego new.
+13. Program za pomocą operatora == uznaje, że x i y są równe.
+14. Program za pomocą operatora === uznaje, że x i y nie są równe.
+15. Program zwraca x == y false.
+16. Program zwraca x === y false.

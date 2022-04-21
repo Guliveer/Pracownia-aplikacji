@@ -1,0 +1,39 @@
+01. Metoda toString() zwraca liczbę jako ciąg.
+
+02. toExponential() zwraca łańcuch, z liczbą zaokrągloną i zapisaną w notacji wykładniczej.
+
+03. toFixed() zwraca ciąg, z liczbą zapisaną z określoną liczbą miejsc po przecinku
+
+04. toPrecision() zwraca ciąg, z liczbą zapisaną o określonej długości
+
+05. valueOf() zwraca liczbę jako liczbę
+
+06. Number() może służyć do konwersji zmiennych JavaScript na liczby
+
+07. Number() może również przekonwertować datę na liczbę.
+
+08. Number() może również przekonwertować datę na liczbę.
+
+09. Number() może również przekonwertować datę na liczbę.
+
+10. parseInt() analizuje łańcuch i zwraca liczbę całkowitą. Spacje są dozwolone. Zwracany jest tylko pierwszy numer
+
+11. parseFloat() analizuje ciąg i zwraca liczbę. Spacje są dozwolone. Zwracany jest tylko pierwszy numer
+
+12. MAX_VALUE zwraca największą możliwą liczbę w JavaScript
+
+13. MIN_VALUE zwraca najniższą możliwą liczbę w JavaScript
+
+14. POSITIVE_INFINITY zwracana przy przepełnieniu
+
+15. POSITIVE_INFINITY zwracana przy przepełnieniu
+
+16. NEGATIVE_INFINITY zwracana przy przepełnieniu
+
+17. NEGATIVE_INFINITY zwracana przy przepełnieniu
+
+18. Próba wykonania arytmetyki z ciągiem nienumerycznym da wynik NaN (Not a Number)
+
+19. Próba wykonania arytmetyki z ciągiem nienumerycznym da wynik NaN (Not a Number)
+
+20. Użycie myNumber.MAX_VALUE, gdzie myNumber jest zmienną, wyrażeniem lub wartością, zwróci "undefined"

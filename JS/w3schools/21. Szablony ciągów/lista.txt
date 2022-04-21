@@ -1,0 +1,11 @@
+01. Literały szablonowe używają back-ticków (``) zamiast cudzysłowów ("") do zdefiniowania ciągu
+
+02. W przypadku literałów szablonu możesz używać zarówno pojedynczych, jak i podwójnych cudzysłowów w ciągu
+
+03. Literały szablonów umożliwiają ciągi wielowierszowe
+
+04. Literały szablonowe zezwalają na zmienne w ciągach
+
+05. Literały szablonowe umożliwiają wyrażenia w ciągach
+
+06. Szablon html ze zmiennymi
