@@ -1,0 +1,51 @@
+ 
+01. Metoda JavaScript toString() konwertuje tablicę na ciąg (oddzielonych przecinkami) wartości tablicowych
+ 
+02. Metoda join() łączy również wszystkie elementy tablicy w ciąg
+ 
+03. Metoda pop() usuwa ostatni element z tablicy
+ 
+04. Metoda pop() zwraca wartość, która „wyskoczyła”
+ 
+05. Metoda push() dodaje nowy element do tablicy (na końcu)
+ 
+06. Metoda push() zwraca nową długość tablicy
+ 
+07. Metoda shift() usuwa pierwszy element tablicy i „przesuwa” wszystkie inne elementy do niższego indeksu
+ 
+08. Metoda shift() zwraca wartość, która została „przesunięta”
+ 
+09. Metoda unshift() dodaje nowy element do tablicy (na początku) i "odsuwa" starsze elementy
+ 
+10. Metoda unshift() zwraca nową długość tablicy
+ 
+11. Dostęp do elementów tablicy uzyskuje się za pomocą ich numeru indeksu
+ 
+12. Właściwość length zapewnia łatwy sposób dołączenia nowego elementu do tablicy
+ 
+13. Elementy tablicy można usuwać za pomocą operatora JavaScript delete. Używając deletepozostawia undefineddziury w tablicy. Zamiast tego użyj pop() lub shift()
+ 
+14. Metoda concat() tworzy nową tablicę poprzez scalenie (konkatenację) istniejących tablic
+ 
+15. Metoda concat() może przyjmować dowolną liczbę argumentów tablicowych
+ 
+16. Metoda concat() może również przyjmować ciągi znaków jako argumenty
+ 
+17. Metoda splice() może służyć do dodawania nowych elementów do tablicy
+ 
+18. Metoda splice() zwraca tablicę z usuniętymi elementami
+ 
+19. Dzięki sprytnemu ustawieniu parametrów możesz użyć splice() do usunięcia elementów bez pozostawiania „dziur” w tablicy
+ 
+20. Metoda slice() wycina fragment tablicy na nową tablicę
+ 
+21. Ten przykład wycina część tablicy zaczynając od elementu tablicy 3 ("Jabłko")
+ 
+22. Metoda slice() może przyjmować dwa argumenty, takie jak slice(1,3)
+ 
+23. Jeśli argument end zostanie pominięty, tak jak w pierwszych przykładach, slice() metoda wycina resztę tablicy
+ 
+24. JavaScript automatycznie konwertuje tablicę na ciąg oddzielony przecinkami, gdy oczekiwana jest wartość pierwotna
+ 
+25. JavaScript automatycznie konwertuje tablicę na ciąg oddzielony przecinkami, gdy oczekiwana jest wartość pierwotna
+ 

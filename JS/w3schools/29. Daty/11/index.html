@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript new Date()</h2>
+
+<p>JavaScript counts months from 0 to 11.</p>
+<p>Specifying a day higher than max, will not result in an error but add the overflow to the next month:</p>
+
+<p id="demo"></p>
+
+<script>
+const d = new Date(2018, 05, 35, 10, 33, 30, 0);
+document.getElementById("demo").innerHTML = d;
+</script>
+
+</body>
+</html>

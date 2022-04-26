@@ -1,0 +1,58 @@
+ 
+01. Tablica to specjalna zmienna, która może zawierać więcej niż jedną wartość
+ 
+02. Spacje i łamanie wierszy nie są ważne. Deklaracja może obejmować wiele wierszy
+ 
+03. Spacje i łamanie wierszy nie są ważne. Deklaracja może obejmować wiele wierszy
+
+04. Możesz również utworzyć tablicę, a następnie podać elementy
+ 
+05. Poniższy przykład tworzy również tablicę i przypisuje jej wartości
+ 
+06. Dostęp do elementu tablicy można uzyskać, odwołując się do numeru indeksu
+ 
+07. To stwierdzenie zmienia wartość pierwszego elementu w "cars"
+ 
+08. W języku JavaScript dostęp do pełnej tablicy można uzyskać, odwołując się do nazwy tablicy
+ 
+09. Tablice używają liczb, aby uzyskać dostęp do swoich "elementów". W tym przykładzie person[0] zwraca John
+ 
+10. Obiekty używają nazw , aby uzyskać dostęp do swoich "członków". W tym przykładzie person.firstName zwraca John
+ 
+11. Właściwość length tablicy zwraca długość tablicy (liczbę elementów tablicy)
+ 
+12. Dostęp do pierwszego elementu tablicy
+ 
+13. Dostęp do ostatniego elementu tablicy
+ 
+14. Jednym ze sposobów na przejście przez tablicę jest użycie for pętli
+ 
+15. Możesz również skorzystać z Array.forEach()funkcji
+ 
+16. Najłatwiejszym sposobem dodania nowego elementu do tablicy jest użycie push() metody
+ 
+17. Nowy element można również dodać do tablicy za pomocą właściwości length
+ 
+18. Dodanie elementów o wysokich indeksach może stworzyć niezdefiniowane „dziury” w tablicy
+ 
+19. W JavaScript tablice zawsze używają indeksów numerowanych
+ 
+20. Jeśli używasz nazwanych indeksów, JavaScript przedefiniuje tablicę do obiektu. Następnie niektóre metody i właściwości tablicowe będą generować nieprawidłowe wyniki
+ 
+21. Te dwie różne instrukcje tworzą nową tablicę zawierającą 6 liczb
+ 
+22. Słowo kluczowe new może dawać nieoczekiwane wyniki
+ 
+23. Słowo kluczowe new może dawać nieoczekiwane wyniki
+ 
+24. Słowo kluczowe new może dawać nieoczekiwane wyniki
+ 
+25. Słowo kluczowe new może dawać nieoczekiwane wyniki
+ 
+26. Słowo kluczowe new może dawać nieoczekiwane wyniki
+ 
+27. Problem polega na tym, że operator JavaScript typeof zwraca "object"
+ 
+28. Aby rozwiązać ten problem, ECMAScript 5 (JavaScript 2009) zdefiniował nową metodę Array.isArray()
+ 
+29. Operator instanceof zwraca true, jeśli obiekt jest tworzony przez dany konstruktor

@@ -1,0 +1,30 @@
+01. Metoda sort() sortuje tablicę alfabetycznie
+ 
+02. Metoda reverse()odwraca elementy w tablicy. Możesz go użyć do posortowania tablicy w kolejności malejącej
+ 
+03. Program, który sortuje liczby rosnąco poprzez ich porównywanie
+ 
+04. Program, który sortuje liczby malejąco poprzez ich porównywanie
+ 
+05. Program, który sortuje liczby alfabetycznie i numerycznie
+ 
+06. Program, który sortuje liczby w losowej kolejności
+ 
+07. Program, który sortuje liczby w losowej kolejności za pomocą metody Fishera Yatesa
+ 
+08. Program, który zwraca najmniejszą liczbę
+ 
+09. Program, który zwraca największą liczbę
+ 
+10. Program, który zwraca największą liczbę za pomocą Math.max.apply
+ 
+11. Program, który zwraca najmniejszą liczbę za pomocą Math.min.apply
+ 
+12. Program, który zwraca największą liczbę, poprzez porównywanie każdej liczby z aktualnie znalezioną największą liczbę
+ 
+13. Program, który zwraca najmniejszą liczbę, poprzez porównywanie każdej liczby z aktualnie znalezioną najmniejszą liczbę
+ 
+14. Program, który sotruje poprzez porównywanie dat
+ 
+15. Program, który sotruje poprzez porównywanie łańcuchów
+ 

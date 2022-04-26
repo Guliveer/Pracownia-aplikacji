@@ -1,0 +1,44 @@
+01. Program, który wykonuje funkcję za pomocą metody forEach() dla każdego elementu tablicy
+ 
+02. Program, który wykonuje funkcję za pomocą metody forEach() dla każdego elementu tablicy
+ 
+03. Program, który tworzy nową tablicę z elementów starej tablicy za pomocą metody map()
+ 
+04. Program, który tworzy nową tablicę z elementów starej tablicy za pomocą metody map()
+ 
+05. Program, który tworzy nową tablicę z elementów starej tablicy, które spełniają warunek za pomocą metody filter()
+ 
+06. Program, który tworzy nową tablicę z elementów starej tablicy, które spełniają warunek za pomocą metody filter()
+ 
+07. Program, który tworzy nową tablicę redukując (dodając) elementy starej tablicy za pomocą metody reduce()
+ 
+08. Program, który tworzy nową tablicę redukując (dodając) elementy starej tablicy za pomocą metody reduce()
+ 
+09. Program, który tworzy nową tablicę redukując (dodając) elementy starej tablicy za pomocą metody reduce(). Metoda ta może zawierać wartość początkową.
+ 
+10. Program, który tworzy nową tablicę redukując (dodając) elementy starej tablicy od prawej do lewej za pomocą metody reduceRight()
+ 
+11. Program, który tworzy nową tablicę redukując (dodając) elementy starej tablicy od prawej do lewej za pomocą metody reduceRight()
+ 
+12. Program, który sprawdza czy wszystkie elementy tablicy spełniają warunek za pomocą metody every()
+ 
+13. Program, który sprawdza czy wszystkie elementy tablicy spełniają warunek za pomocą metody every()
+ 
+14. Program, który sprawdza czy niektóre elementy tablicy spełniają warunek za pomocą metody some()
+ 
+15. Program, który sprawdza na której pozycji jest dany element za pomocą metody indexOf()
+ 
+16. Program, który sprawdza na której pozycji jest dany element za pomocą metody lastIndexOf(). Zwraca ostatnią pozycję na której dany element się pojawił
+ 
+17. Program, który zwraca pierwszy element tablicy który spełnia warunek
+ 
+18. Program, który zwraca pozycję pierwszego elementu tablicy który spełnia warunek
+ 
+19. Program, który tworzy obiekt tablicy z jakiegokolwiek obiektu
+ 
+20. Metoda Array.keys() zwraca obiekt Array Iterator z kluczami tablicy.
+ 
+21. Metoda entries() zwraca obiekt Array Iterator z parami klucz/wartość
+ 
+22. Program, który sprawdza czy dany element jest w tablicy za pomocą metody includes()
+ 

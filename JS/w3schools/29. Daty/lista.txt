@@ -1,0 +1,58 @@
+01. Program podaje aktualny rok.
+ 
+02. Program podaje aktualny miesiąc.
+ 
+03. Program podaje aktualny dzień.
+
+04. Program podaje aktualną godzinę. 
+ 
+05. Program podaje aktualną minutę.
+ 
+06. Program podaje aktualną ilość sekund.
+ 
+07. Program podaje aktualną datę i godzinę.
+ 
+08. Program podaje aktualną datę i godzinę.
+ 
+09. Program podaje podaną datę i godzinę.
+ 
+10. Program podaje podaną datę i godzinę.
+ 
+11. Program podaje podaną datę i godzinę.
+ 
+12. Program podaje podaną datę i godzinę.
+ 
+13. Program podaje podaną datę i godzinę.
+ 
+14. Program podaje podaną datę i godzinę.
+ 
+15. Program podaje podaną datę i godzinę.
+ 
+16. Program podaje podaną datę i godzinę.
+ 
+17. Program podaje podaną datę i godzinę.
+ 
+18. Program podaje podaną datę i godzinę z XX wieku.
+ 
+19. Program podaje podaną datę i godzinę z XX wieku.
+ 
+20. Program podaje podaną datę i godzinę w formie ciągu.
+ 
+21. Program podaje podaną datę i godzinę czasu uniwersalnego, koordynowanego.
+ 
+22. Program podaje podaną datę i godzinę czasu uniwersalnego, koordynowanego + 100 000 000 000 milisekund.
+ 
+23. Program podaje podaną datę i godzinę czasu uniwersalnego, koordynowanego - 100 000 000 000 milisekund.
+
+24. Program podaje podaną datę i godzinę czasu uniwersalnego, koordynowanego + 86 400 000 milisekund.
+
+25. Program podaje podaną datę i godzinę w formacie pełnego tekstu.
+
+26. Program podaje podaną datę i godzinę w formacie pełnego tekstu.
+
+27. Program podaje podaną datę i godzinę w formacie UTC.
+
+28. Program podaje podaną datę i godzinę w bardziej czytelnym formacie.
+
+29. Program podaje podaną datę i godzinę w formacie ISO.
+

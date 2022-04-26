@@ -1,0 +1,12 @@
+01. Deklarowanie tablicy przy użyciu const.
+ 
+02. Przykład tablicy z funkcją const.
+ 
+03. Przykład tablicy z funkcją const.
+ 
+04. Przykład tablicy z funkcją const.
+ 
+05. Przykład tablicy z funkcją const.
+ 
+06. Przykład tablicy z funkcją const.
+ 
