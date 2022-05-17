@@ -8,9 +8,19 @@ headers = {
     'User-Agent': 'anonymous',
     'From': 'example@gmail.com'
 }
+
+def clear():
+    command = 'clear'
+    if os.name in ('nt', 'dos'):  # If Machine is running on Windows, use cls
+        command = 'cls'
+    os.system(command)
+
 def MainFunc():
-    urlToScrape=input("Which URL you want me to scrap examples from? ")
-    pathToSave=input("Where do you want me to save files? Write '.' if in the place from where you executed the program.")
+    clear()
+    urlToScrape=input("Which URL you want me to scrap examples from?\n> ")
+    clear()
+    pathToSave=input("Where do you want me to save files?\nWrite '.' if in the place from where you executed the program.\n> ")
+    clear()
     finalList=TakingAllURLsOfExamples(urlToScrape)
     CreatingFolders(finalList, pathToSave)
     DownloadAnExample(finalList, pathToSave)
@@ -26,6 +36,7 @@ def TakingAllURLsOfExamples(urlMain):
     finalList=[domain+s for s in urlFinal]
     print(f'{len(finalList)} examples found', finalList)
     return finalList
+
 # This functions downloads Examples and makes them pretty (usable)
 def DownloadAnExample(finalList, pathToSave):
     newPathToSave=pathToSave
@@ -33,7 +44,7 @@ def DownloadAnExample(finalList, pathToSave):
     for oneURL in finalList:
         q+=1
         oneExmpl=(bs(requests.get(oneURL, headers=headers).text,'html.parser'))
-        pathToSave=newPathToSave+"/"+str(q)+"/index.html"
+        pathToSave=newPathToSave+"/"+str(q).zfill(2)+"/index.html"
         with open(pathToSave,'w') as f:
             f.writelines(str(oneExmpl.textarea.contents))
         with open(pathToSave,'r+') as f:
@@ -50,6 +61,6 @@ def DownloadAnExample(finalList, pathToSave):
 # this creates numbered folders inside a folder provided by the user in variable pathToSave
 def CreatingFolders(numberOfFolders, pathToSave):
     for i in range(len(numberOfFolders)):
-        os.mkdir(pathToSave+"/"+str(i+1))
+        os.mkdir(pathToSave+"/"+str(i+1).zfill(2))
     return numberOfFolders
 MainFunc()
