@@ -1,0 +1,23 @@
+1. Math.PI zwraca stosunek obwodu okręgu do jego średnicy.
+2. JavaScript udostępnia 8 stałych matematycznych, do których można uzyskać dostęp jako właściwości matematyczne.
+3. Math.round(x)zwraca najbliższą liczbę całkowitą.
+4. Math.round(x)zwraca najbliższą liczbę całkowitą.
+5. Math.round(x)zwraca najbliższą liczbę całkowitą.
+6. Math.ceil(x)zwraca wartość x zaokrągloną w górę do najbliższej liczby całkowitej.
+7. Math.floor(x)zwraca wartość x zaokrągloną w dół do najbliższej liczby całkowitej.
+8. Math.trunc(x)zwraca część całkowitą x.
+9. Math.sign(x)zwraca, jeśli x jest ujemne, puste lub dodatnie.
+10. Math.pow(x, y)zwraca wartość x do potęgi y.
+11. Math.sqrt(x)zwraca pierwiastek kwadratowy z x.
+12. Math.abs(x)zwraca bezwzględną (dodatnią) wartość x.
+13. Math.sin(x)zwraca sinus (wartość od -1 do 1) kąta x (podanego w radianach).
+14. Math.cos(x)zwraca cosinus (wartość od -1 do 1) kąta x (podanego w radianach).
+15. Math.min() znajduje najniższą wartość na liście argumentów.
+16. Math.max() znajduje najwyższą wartość na liście argumentów.
+17. Math.random()zwraca losową liczbę od 0 (włącznie) do 1 (wyłącznie).
+18. Program zwraca logarytm naturalny z 1.
+19. Program zwraca logarytm naturalny z 2.
+20. Program zwraca logarytm naturalny z 3.
+21. Program wskazuje, ile razy musimy pomnożyć Math.E, aby otrzymać 10.
+22. Math.log2(x)zwraca logarytm o podstawie 2 z x.
+23. Math.log10(x)zwraca logarytm o podstawie 10 z x.

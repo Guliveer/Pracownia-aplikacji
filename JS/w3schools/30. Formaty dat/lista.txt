@@ -1,0 +1,26 @@
+01. Program który wyświetla datę w standardzie ISO (YYYY-MM-DD)
+ 
+02. Program który wyświetla datę w standardzie ISO (YYYY-MM), ustawia pierwszy dzień miesiąca
+ 
+03. Program który wyświetla datę w standardzie ISO (YYYY), ustawia pierwszy dzień pierwszego miesiąca
+ 
+04. Program który wyświetla datę i czas w standardzie ISO (YYYY-MM-DDTHH:MM:SSZ), "T" oddziela datę i czas, "Z" oznacza czas UTC
+ 
+05. Program który wyświetla datę i czas w standardzie ISO (YYYY-MM-DDTHH:MM:SS), można do czasu dodać +HH:MM lub -HH:MM, da to czas relatywny do podanego
+ 
+06. Program który wyświetla datę (MM/DD/YYYY)
+ 
+07. Program który wyświetla datę (MMM DD YYYY), miesiąc możemy pisać pierwszymi trzema literami miesiąca.
+ 
+08. Program który wyświetla datę (DD MMM YYYY), miesiąc możemy pisać pierwszymi trzema literami miesiąca.
+ 
+09. Program który wyświetla datę (MMM DD YYYY), miesiąc możemy pisać całą nazwą miesiąca.
+ 
+10. Program który wyświetla datę (MMM DD YYYY), miesiąc możemy pisać pierwszymi trzema literami miesiąca.
+ 
+11. Program który wyświetla datę (MMM, DD, YYYY), przecinki są pomijane, wielkość liter w nazwach nie jest rozróżniana.
+ 
+12. Program który podaje liczbę milisekund między podaną datą a 1. stycznia 1970r., za pomocą metody Date.parse().
+ 
+13. Program który podaje liczbę milisekund między podaną datą a 1. stycznia 1970r., można skorzystać z tej wartości by przekonwertować ciąg na obiekt daty. 
+ 

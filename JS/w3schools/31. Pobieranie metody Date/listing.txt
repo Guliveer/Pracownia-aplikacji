@@ -1,0 +1,21 @@
+1. Metoda getTime()zwraca liczbę milisekund od 1 stycznia 1970 r.:
+
+2. Metoda getFullYear()zwraca rok daty jako czterocyfrową liczbę:
+
+3. Metoda getMonth()zwraca miesiąc daty jako liczbę (0-11):
+
+4. Możesz użyć tablicy nazw i getMonth()zwrócić miesiąc jako nazwę:
+
+5. Metoda getDate()zwraca dzień daty jako liczbę (1-31):
+
+6. Metoda getHours()zwraca godziny daty jako liczbę (0-23):
+ 
+7. Metoda getMinutes()zwraca minuty daty jako liczbę (0-59):
+
+8. Metoda getSeconds()zwraca sekundy daty jako liczbę (0-59):
+
+9. Metoda getMilliseconds()zwraca milisekundy daty jako liczbę (0-999):
+
+10. Metoda getDay()zwraca dzień tygodnia daty jako liczbę (0-6):
+
+11. Możesz użyć tablicy nazw i getDay()zwrócić dzień tygodnia jako nazwę:

@@ -1,0 +1,27 @@
+1. Program zwraca wartość bezwzględną x.
+2. Program zwraca wartość arccosine z x, w radianach.
+3. Program zwraca hiperboliczną arccosine z x.
+4. Program zwraca wartość arcsinusa x w radianach.
+5. Program zwraca hiperboliczną arcsinę x.
+6. Program zwraca arctangens x jako wartość liczbową między -PI/2 a PI/2 radianami.
+7. Program zwraca arctangens ilorazu jego argumentów.
+8. Program zwraca łuk hiperboliczny z x.
+9. Program zwraca pierwiastek sześcienny z x
+10. Program zwraca wartość x, zaokrągloną w górę do najbliższej liczby całkowitej.
+11. Program zwraca cosinus x (x jest w radianach).
+12. Program zwraca cosinus hiperboliczny x.
+13. Program zwraca wartość Ex.
+14. Program zwraca wartość x w zaokrągleniu w dół do najbliższej liczby całkowitej.
+15. Program zwraca logarytm naturalny (zasada E) z x.
+16. Program zwraca liczbę o najwyższej wartości.
+17. Program zwraca liczbę o najniższej wartości.
+18. Program zwraca wartość x do potęgi y.
+19. Program zwraca liczbę losową z zakresu od 0 do 1.
+20. Program zaokrągla x do najbliższej liczby całkowitej.
+21. Program zwraca wartość, jeśli wartość x jest ujemna, null lub dodatnia (-1, 0, 1).
+22. Program zwraca sinus x (x jest w radianach).
+23. Program zwraca sinus hiperboliczny x.
+24. Program zwraca pierwiastek kwadratowy z x.
+25. Program zwraca styczną kąta.
+26. Program zwraca styczną hiperboliczną liczby.
+27. Program zwraca całkowitą część liczby (x).

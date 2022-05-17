@@ -1,0 +1,9 @@
+01. Metoda setFullYear()ustawia rok obiektu daty. W tym przykładzie do 2020 roku.
+02. Metoda setFullYear()może opcjonalnie ustawić miesiąc i dzień.
+03. Metoda setMonth()ustawia miesiąc obiektu daty (0-11).
+04. Metoda setDate()ustawia dzień obiektu daty (1-31).
+05. Metodę setDate()można również wykorzystać do dodawania dni do daty.
+06. Metoda setHours()ustawia godziny obiektu daty (0-23).
+07. Metoda setMinutes()ustawia minuty obiektu daty (0-59).
+08. Metoda setSeconds()ustawia sekundy obiektu daty (0-59).
+09. Przykład ten porównuje datę dzisiejszą do daty 14 stycznia 2100 roku.
