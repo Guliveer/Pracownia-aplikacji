@@ -1,0 +1,17 @@
+01. Math.random() zwraca losową liczbę od 0 (włącznie) do 1 (wyłącznie)
+ 
+02. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+03. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+04. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+05. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+06. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+07. Math.random() używany z Math.floor() może być użyty do zwrócenia losowych liczb całkowitych.
+ 
+08. Ta funkcja JavaScript zawsze zwraca losową liczbę pomiędzy min (włącznie) a max (wykluczenie)
+ 
+09. Ta funkcja JavaScript zawsze zwraca losową liczbę pomiędzy min (włącznie) a max (wykluczenie)

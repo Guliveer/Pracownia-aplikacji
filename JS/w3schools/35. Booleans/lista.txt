@@ -1,0 +1,32 @@
+01. Możesz użyć funkcji Boolean(), aby dowiedzieć się, czy wyrażenie (lub zmienna) jest prawdziwe
+ 
+02. To samo co przykład wyżej tylko inaczej zapisane
+ 
+03. Wszystko, co ma „wartość” jest prawdą
+
+04. Wartość logiczna 0 (zero) to fałsz
+ 
+05. Wartość logiczna -0 (minus zero) to fałsz 
+ 
+06. Wartość logiczna „” (pusty ciąg) to false
+ 
+07. Wartość logiczna undefined to false 
+ 
+08. Wartość logiczna null to false 
+ 
+09. Wartość logiczna false to false
+ 
+10. Wartość logiczna NaN to fałsz
+ 
+11. Normalnie wartości logiczne JavaScript są prymitywnymi wartościami utworzonymi z literałów
+Ale wartości logiczne można również zdefiniować jako obiekty za pomocą słowa kluczowego new
+
+12. Używając == operatora, x i y są równe
+ 
+13. Używając === operatora, x i y nie są równe 
+ 
+14. Zwraca false
+ 
+15. Zwraca false
+ 
+ 
