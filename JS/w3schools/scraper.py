@@ -60,6 +60,9 @@ def DownloadAnExample(finalList, pathToSave):
 
 # this creates numbered folders inside a folder provided by the user in variable pathToSave
 def CreatingFolders(numberOfFolders, pathToSave):
+    if os.path.exists(pathToSave)==0:
+        os.mkdir(pathToSave)
+
     for i in range(len(numberOfFolders)):
         os.mkdir(pathToSave+"/"+str(i+1).zfill(2))
     return numberOfFolders
