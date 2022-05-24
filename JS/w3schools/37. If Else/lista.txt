@@ -1,0 +1,5 @@
+01.Powitanie „Dzień dobry”, jeśli godzina jest mniejsza niż 18:00
+
+02. Jeśli godzina jest mniejsza niż 18, utwórz powitanie „Dzień dobry”, w przeciwnym razie „Dobry wieczór”
+
+03. Jeśli czas jest krótszy niż 10:00, utwórz powitanie „Dzień dobry”, jeśli nie, ale czas jest krótszy niż 20:00, utwórz powitanie „Dzień dobry”, w przeciwnym razie „Dobry wieczór”

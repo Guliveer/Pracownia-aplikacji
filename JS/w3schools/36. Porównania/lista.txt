@@ -1,0 +1,52 @@
+01. Przedstawia działanie operatorów porównania(==)
+ 
+02. Przedstawia działanie operatorów porównania(==)
+ 
+03. Przedstawia działanie operatorów porównania(==)
+ 
+04. Przedstawia działanie operatorów porównania(===)
+ 
+05. Przedstawia działanie operatorów porównania(===)
+ 
+06. Przedstawia działanie operatorów porównania(!=)
+ 
+07. Przedstawia działanie operatorów porównania(!==)
+ 
+08. Przedstawia działanie operatorów porównania(!==)
+ 
+09. Przedstawia działanie operatorów porównania(!==)
+ 
+10. Przedstawia działanie operatorów porównania(>)
+ 
+11. Przedstawia działanie operatorów porównania(<)
+ 
+12. Przedstawia działanie operatorów porównania(>=)
+ 
+13. Przedstawia działanie operatorów porównania(<=)
+ 
+14. Przedstawia działanie operatora &&
+ 
+15. Przedstawia działanie operatora ||
+ 
+16. Przedstawia działanie operatora !
+ 
+17. Przykład operatora warunkoweg, który przypisuje wartość do zmiennej na podstawie pewnego warunku.
+ 
+18.  Przedstawia działanie operatorów porównania(<)
+ 
+19. Przedstawia działanie operatorów porównania(<)
+ 
+20.  Przedstawia działanie operatorów porównania(<)
+ 
+21. Przedstawia działanie operatorów porównania(>)
+ 
+22. Przedstawia działanie operatorów porównania(==)
+ 
+23. Przedstawia działanie operatorów porównania(<)
+ 
+24. Przedstawia działanie operatorów porównania(>)
+ 
+25. Przedstawia działanie operatorów porównania(==)
+ 
+26. Zmienne należy konwertować na odpowiedni typ 
+ 
