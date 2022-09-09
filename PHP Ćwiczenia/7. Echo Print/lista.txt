@@ -1,0 +1,7 @@
+01. Przykład pokazuje, jak wyprowadzić tekst za pomocą polecenia echo (zauważ, że tekst może zawierać znaczniki HTML)
+
+02. Przykład pokazuje, jak wyprowadzić tekst i zmienne za pomocą instrukcji echo
+
+03. Przykład pokazuje, jak wyprowadzić tekst za pomocą polecenia print (zauważ, że tekst może zawierać znaczniki HTML)
+
+04. Przykład pokazuje, jak wyprowadzić tekst i zmienne za pomocą printinstrukcji

@@ -1,0 +1,9 @@
+01. Funkcja PHP strlen() zwraca długość ciągu
+
+02. Funkcja PHP str_word_count() zlicza liczbę słów w ciągu
+
+03. Funkcja PHP strrev() odwraca ciąg
+
+04. Funkcja PHP strpos() wyszukuje określony tekst w ciągu. Jeśli zostanie znalezione dopasowanie, funkcja zwraca pozycję znaku pierwszego dopasowania. Jeśli nie zostanie znalezione żadne dopasowanie, zwróci FALSE
+
+05. Funkcja PHP str_replace() zastępuje niektóre znaki innymi znakami w ciągu

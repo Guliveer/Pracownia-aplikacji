@@ -1,0 +1,10 @@
+01. Zmienna zadeklarowana poza funkcją ma ZAKRES GLOBALNY i jest dostępna tylko poza funkcją
+
+02. Zmienna zadeklarowana w funkcji ma ZAKRES LOKALNY i jest dostępna tylko w ramach tej funkcji
+
+03. Słowo globalkluczowe służy do dostępu do zmiennej globalnej z poziomu funkcji
+
+04. PHP przechowuje również wszystkie zmienne globalne w tablicy o nazwie index. Zawiera nazwę zmiennej. Ta tablica jest również dostępna z poziomu funkcji i może być używana do bezpośredniego aktualizowania zmiennych globalnych. $GLOBALS[index]
+
+05. Normalnie, gdy funkcja jest zakończona/wykonana, wszystkie jej zmienne są usuwane. Czasami jednak chcemy, aby zmienna lokalna NIE została usunięta. Potrzebujemy go do dalszej pracy.
+Aby to zrobić, użyj słowa kluczowego static podczas pierwszej deklaracji zmiennej

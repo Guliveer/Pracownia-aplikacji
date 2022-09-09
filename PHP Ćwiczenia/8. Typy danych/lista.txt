@@ -1,0 +1,11 @@
+01. Ciąg może być dowolnym tekstem w cudzysłowie. Możesz użyć pojedynczych lub podwójnych cudzysłowów
+
+02. $x jest liczbą całkowitą. Funkcja PHP var_dump() zwraca typ i wartość danych
+
+03. $x jest liczbą zmiennoprzecinkową. Funkcja PHP var_dump() zwraca typ i wartość danych
+
+04. $cars jest tablicą. Funkcja PHP var_dump() zwraca typ i wartość danych
+
+05. Jeśli utworzysz funkcję __construct(), PHP automatycznie wywoła tę funkcję podczas tworzenia obiektu z klasy
+
+06. Zmienne można również opróżniać, ustawiając wartość na NULL

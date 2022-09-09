@@ -3,4 +3,4 @@
 cd %~dp0
 
 title W3SCHOOLS scraper
-py scraper.py
+python scraper.py
