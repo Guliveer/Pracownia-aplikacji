@@ -1,0 +1,7 @@
+ 
+01. Przykład prostego pliku PHP ze skryptem PHP, który używa wbudowanej funkcji PHP "echo" do wyświetlenia tekstu "Hello World!" na stronie internetowej
+ 
+02. Wszystkie trzy poniższe instrukcje echa są równe i legalne
+ 
+03. Tylko pierwsza instrukcja wyświetli wartość $colorzmiennej! Dzieje się tak, ponieważ $color, $COLORi $coLORsą traktowane jako trzy różne zmienne
+ 

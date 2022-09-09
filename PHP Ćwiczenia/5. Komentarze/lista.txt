@@ -1,0 +1,7 @@
+ 
+01. Składnia komentarzy jednowierszowych
+ 
+02. Składnia komentarzy wielowierszowych
+ 
+03. Używanie komentarzy do pominięcia części kodu
+ 

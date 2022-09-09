@@ -1,0 +1,9 @@
+ 
+01. W PHP zmienna zaczyna się od znaku $, po którym następuje nazwa zmiennej
+ 
+02. Przykład pokaże, jak wyprowadzić tekst i zmienną
+ 
+03. Przykład da takie same dane wyjściowe
+ 
+04. Przykład wyświetli sumę dwóch zmiennych
+ 

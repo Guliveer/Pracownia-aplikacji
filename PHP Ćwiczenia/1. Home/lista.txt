@@ -1,0 +1,3 @@
+ 
+01. Za pomocą naszego internetowego edytora „PHP Tryit” możesz edytować kod PHP i kliknąć przycisk, aby wyświetlić wynik.
+ 
