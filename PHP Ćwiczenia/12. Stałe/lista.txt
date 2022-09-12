@@ -1,0 +1,7 @@
+01. Utwórz stałą, z nazwą wrażliwą na wielkość znaków
+
+02. Utwórz stałą, z nazwą niewrażliwą na wielkość znaków
+
+03. Utwórz stałą tablicę
+
+04. Użycie stałej wewnątrz funkcji, nawet jeśli jest ona zdefiniowana poza funkcją

@@ -1,0 +1,13 @@
+01. Funkcja pi() zwraca wartość PI
+
+02. Funkcje min() i max() mogą służyć do znajdowania najniższej lub najwyższej wartości na liście argumentów
+
+03. Funkcja abs() zwraca bezwzględną (dodatnią) wartość liczby
+
+04. Funkcja sqrt() zwraca pierwiastek kwadratowy z liczby
+
+05. Funkcja round() zaokrągla liczbę zmiennoprzecinkową do najbliższej liczby całkowitej
+
+06. Funkcja rand() generuje liczbę losową
+
+07. Jeśli chcesz losową liczbę całkowitą z przedziału od 10 do 100 (włącznie), użyj rand(10, 100)

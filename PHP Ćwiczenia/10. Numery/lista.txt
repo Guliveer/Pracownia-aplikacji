@@ -1,0 +1,11 @@
+01. Sprawdza, czy typ zmiennej jest liczbą całkowitą
+
+02. Sprawdza, czy typ zmiennej to float
+
+03. Sprawdza, czy typ zmiennej to liczba skończona lub nie
+
+04. Nieprawidłowe obliczenie zwróci wartość NaN
+
+05. Sprawdza, czy zmienna jest liczbowa
+
+06. Zamienia liczbę zmiennoprzecinkową i ciąg znaków na liczbę całkowitą
