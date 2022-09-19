@@ -1,0 +1,5 @@
+01. Wyjście "Miłego dnia!" jeśli aktualny czas (GODZINA) jest mniejszy niż 20
+
+02. Wyjście "Miłego dnia!" jeśli aktualna godzina jest mniejsza niż 20 i „Dobrej nocy!” w przeciwnym wypadku
+
+03. Wyjście "Miłego dnia!" jeśli aktualna godzina jest mniejsza niż 10 i „Miłego dnia!” jeśli aktualna godzina jest mniejsza niż 20. W przeciwnym razie wyświetli komunikat „Dobrej nocy!”

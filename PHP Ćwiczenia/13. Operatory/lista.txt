@@ -1,0 +1,83 @@
+01. Suma $x i $y
+
+02. Różnica $x i $y
+
+03. Iloczyn $x i $y
+
+04. Iloraz $x i $y
+
+05. Reszta z $x na $y
+
+06. Potęga $x do $y
+
+07. Lewy operand zostaje ustawiony na wartość wyrażenia po prawej stronie
+
+08. Suma $x i $y
+
+09. Różnica $x i $y
+
+10. Iloczyn $x i $y
+
+11. Iloraz $x i $y
+
+12. Reszta z $x na $y
+
+13. Zwraca prawdę, jeśli $x jest równe $y
+
+14. Zwraca prawdę, jeśli $x jest równe $y i są tego samego typu
+
+15. Zwraca prawdę, jeśli $x nie jest równe $y
+
+16. Zwraca prawdę, jeśli $x nie jest równe $y
+
+17. Zwraca prawdę, jeśli $x nie jest równe $y lub nie są tego samego typu
+
+18. Zwraca prawdę, jeśli $x jest większe niż $y
+
+19. Zwraca prawdę, jeśli $x jest mniejsze niż $y
+
+20. Zwraca prawdę, jeśli $x jest większe lub równe $y
+
+21. Zwraca prawdę, jeśli $x jest mniejsze lub równe $y
+
+22. Zwraca liczbę całkowitą mniejszą, równą lub większą od zera, w zależności od tego, czy $x jest mniejsze niż, równe lub większe niż $y. Wprowadzony w PHP 7.
+
+23. Zwiększa $x o jeden, a następnie zwraca $x
+
+24. Zwraca $x, a następnie zwiększa $x o jeden
+
+25. Zmniejsza $x o jeden, a następnie zwraca $x
+
+26. Zwraca $x, a następnie zmniejsza $x o jeden
+
+27. Prawda, jeśli obie wartości $x i $y są prawdziwe
+
+28. Prawda, jeśli wartość $x lub $y jest prawdziwa
+
+29. Prawda, jeśli wartość $x lub $y jest prawdą, ale nie jedno i drugie
+
+30. Prawda, jeśli obie wartości $x i $y są prawdziwe
+
+31. Prawda, jeśli wartość $x lub $y jest prawdziwa
+
+32. Prawda, jeśli $x nie jest prawdą
+
+33. Konkatenacja $txt1 i $txt2
+
+34. Dołącza $txt2 do $txt1
+
+35. Unia $x i $y
+
+36. Zwraca true, jeśli $x i $y mają te same pary klucz/wartość
+
+37. Zwraca true, jeśli $x i $y mają te same pary klucz/wartość w tej samej kolejności i tego samego typu
+
+38. Zwraca prawdę, jeśli $x nie jest równe $y
+
+39. Zwraca prawdę, jeśli $x nie jest równe $y
+
+40. Zwraca prawdę, jeśli $x nie jest identyczne z $y
+
+41. Zwraca wartość $x. Wartość $x to wyr2, jeśli wyr1 = PRAWDA. Wartość $x to wyr3, jeśli wyraż1 = FAŁSZ
+
+42. Zwraca wartość $x. Wartość $x to wyrażenie1, jeśli istnieje wyrażenie1 i nie ma wartości NULL. Jeśli wyrażenie1 nie istnieje lub ma wartość NULL, wartość $x to wyrażenie2. Wprowadzono w PHP 7
