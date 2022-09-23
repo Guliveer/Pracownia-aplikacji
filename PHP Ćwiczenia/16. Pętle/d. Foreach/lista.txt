@@ -1,0 +1,3 @@
+01. Wyświetli wartości podanej tablicy ($colors)
+
+02. Wyświetli zarówno klucze, jak i wartości podanej tablicy ($age)

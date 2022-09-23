@@ -1,0 +1,3 @@
+01. Ustawia zmienną $x na 1 ($x = 1). Następnie pętla do while zapisze jakieś dane wyjściowe, a następnie zwiększy zmienną $x o 1. Następnie sprawdzany jest warunek (czy $x jest mniejszy czy równy 5?), a pętla będzie działać tak długo, jak długo $x jest mniejsze lub równe 5
+
+02. Ustawia zmienną $x na 6, następnie uruchamia pętlę, a następnie sprawdzany jest warunek

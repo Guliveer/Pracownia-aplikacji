@@ -1,0 +1,3 @@
+01. Wyświetla liczby od 0 do 10
+
+02. Liczy do 100 na dziesiątki

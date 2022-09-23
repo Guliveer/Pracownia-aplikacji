@@ -1,0 +1,7 @@
+01. Wyskakuje z pętli, gdy x jest równe 4
+
+02. Pomija wartość 4
+
+03. Użycie "break" w pętli while
+
+04. Użycie "continue" w pętli while
