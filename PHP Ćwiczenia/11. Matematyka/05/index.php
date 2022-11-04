@@ -17,7 +17,7 @@ echo(round(-4.40) . "<br/>");
 
 echo(round(-4.60));
 
-?&gt;
+?>
 
 
 

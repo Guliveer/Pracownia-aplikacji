@@ -23,7 +23,7 @@ myTest();
 
 echo "<p>Variable x outside function is: $x</p>";
 
-?&gt;
+?>
 
 
 

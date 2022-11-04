@@ -7,15 +7,15 @@
 
 <?php
 
-$x = array("a" => "red", "b" =&gt; "green");  
+$x = array("a" => "red", "b" => "green");  
 
-$y = array("c" =&gt; "blue", "d" =&gt; "yellow");  
+$y = array("c" => "blue", "d" => "yellow");  
 
 
 
 var_dump($x == $y);
 
-?&gt;  
+?>  
 
 
 

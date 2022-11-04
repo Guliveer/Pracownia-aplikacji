@@ -29,7 +29,7 @@ $int_cast = (int)$x;
 
 echo $int_cast;
 
-?&gt;  
+?>  
 
 
 

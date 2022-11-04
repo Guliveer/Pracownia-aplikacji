@@ -43,7 +43,7 @@ $x = "Hello";
 
 var_dump(is_numeric($x));
 
-?&gt;  
+?>  
 
 
 

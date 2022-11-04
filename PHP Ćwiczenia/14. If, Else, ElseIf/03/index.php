@@ -15,11 +15,11 @@ echo ", and will give the following message:";
 
 
 
-if ($t &lt; "10") {
+if ($t < "10") {
 
   echo "Have a good morning!";
 
-} elseif ($t &lt; "20") {
+} elseif ($t < "20") {
 
   echo "Have a good day!";
 
@@ -29,7 +29,7 @@ if ($t &lt; "10") {
 
 }
 
-?&gt;
+?>
 
  
 

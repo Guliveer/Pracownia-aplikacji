@@ -17,13 +17,13 @@ class Car {
 
     $this->color = $color;
 
-    $this-&gt;model = $model;
+    $this->model = $model;
 
   }
 
   public function message() {
 
-    return "My car is a " . $this-&gt;color . " " . $this-&gt;model . "!";
+    return "My car is a " . $this->color . " " . $this->model . "!";
 
   }
 
@@ -33,15 +33,15 @@ class Car {
 
 $myCar = new Car("black", "Volvo");
 
-echo $myCar -&gt; message();
+echo $myCar -> message();
 
 echo "<br/>";
 
 $myCar = new Car("red", "Toyota");
 
-echo $myCar -&gt; message();
+echo $myCar -> message();
 
-?&gt;
+?>
 
 
 

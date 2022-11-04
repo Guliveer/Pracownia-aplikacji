@@ -15,7 +15,7 @@ echo(sqrt(1) . "<br/>");
 
 echo(sqrt(9));
 
-?&gt;
+?>
 
 
 

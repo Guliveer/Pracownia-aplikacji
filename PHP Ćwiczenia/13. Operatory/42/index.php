@@ -21,7 +21,7 @@
 
    echo $color = $color ?? "red";
 
-?&gt;  
+?>  
 
 
 

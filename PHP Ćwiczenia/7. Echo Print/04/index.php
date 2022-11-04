@@ -23,7 +23,7 @@ print "Study PHP at " . $txt2 . "<br/>";
 
 print $x + $y;
 
-?&gt;
+?>
 
 
 

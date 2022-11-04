@@ -19,7 +19,7 @@ echo "<br>";
 
 echo $y;
 
-?&gt;
+?>
 
 
 

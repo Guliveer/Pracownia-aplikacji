@@ -1,0 +1,19 @@
+01. Tworzymy funkcję o nazwie „writeMsg()”. Otwierający nawias klamrowy ( { ) wskazuje początek kodu funkcji, a zamykający nawias klamrowy ( } ) wskazuje koniec funkcji. Funkcja wyprowadza "Witaj świecie!". Aby wywołać funkcję, po prostu wpisz jej nazwę, a następnie nawiasy ()
+
+02. Gdy wywoływana jest funkcja familyName(), przekazujemy również imię (np. Jani), a imię jest używane wewnątrz funkcji, która wypisuje kilka różnych imion, ale jednakowe nazwisko
+
+03. Funkcja z dwoma argumentami ($fname i $rok)
+
+04. Próba wysłania do funkcji zarówno liczby, jak i ciągu znaków bez użycia strict
+
+05. Próba przesłać do funkcji zarówno liczby, jak i ciągu, ale dodano deklarację strict 
+
+06. Jeśli wywołamy funkcję setHeight() bez argumentów, jako argument przyjmie ona domyślną wartość
+
+07. Aby funkcja zwróciła wartość, użyj instrukcji return
+
+08. Określono typ zwracanych danych
+
+09. Zmieniony typ zwracanych argumentów, należ zwrócić uwagę, żeby typ był prawidłowy
+
+10. Gdy argument funkcji jest przekazywany przez odwołanie, zmiany w argumencie zmieniają również zmienną, która została przekazana. Aby zamienić argument funkcji w odwołanie, & używany jest operator

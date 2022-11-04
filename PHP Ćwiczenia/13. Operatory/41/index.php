@@ -21,7 +21,7 @@
 
    echo $status = (empty($user)) ? "anonymous" : "logged in";
 
-?&gt;  
+?>  
 
 
 

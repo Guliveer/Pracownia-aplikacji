@@ -7,17 +7,17 @@
 
 <?php
 
-$age = array("Peter"=>"35", "Ben"=&gt;"37", "Joe"=&gt;"43");
+$age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
 
 
 
-foreach($age as $x =&gt; $val) {
+foreach($age as $x => $val) {
 
   echo "$x = $val<br/>";
 
 }
 
-?&gt;
+?>
 
 
 

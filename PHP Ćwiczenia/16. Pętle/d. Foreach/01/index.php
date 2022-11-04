@@ -17,7 +17,7 @@ foreach ($colors as $value) {
 
 }
 
-?&gt;  
+?>  
 
 
 

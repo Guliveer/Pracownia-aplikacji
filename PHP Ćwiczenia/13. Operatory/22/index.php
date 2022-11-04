@@ -25,7 +25,7 @@ $y = 10;
 
 
 
-echo ($x &lt;=&gt; $y); // returns 0 because values are equal
+echo ($x <=> $y); // returns 0 because values are equal
 
 echo "<br/>";
 
@@ -37,9 +37,9 @@ $y = 10;
 
 
 
-echo ($x &lt;=&gt; $y); // returns +1 because $x is greater than $y
+echo ($x <=> $y); // returns +1 because $x is greater than $y
 
-?&gt;  
+?>  
 
 
 
