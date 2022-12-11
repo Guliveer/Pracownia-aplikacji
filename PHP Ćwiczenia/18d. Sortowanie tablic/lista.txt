@@ -1,0 +1,15 @@
+01. Sortowanie elementów tablicy $cars w rosnącej kolejności alfabetycznej
+
+02. Sortowanie elementów tablicy $numbers w rosnącej kolejności numerycznej
+
+03. Sortowanie elementów tablicy $cars w malejącej kolejności alfabetycznej
+
+04. Sortowanie elementów tablicy $numbers w malejącej kolejności numerycznej
+
+05. Sortowanie tablicy asocjacyjnej w porządku rosnącym, zgodnie z wartością
+
+06. Sortowanie tablicy asocjacyjnej w porządku rosnącym, zgodnie z kluczem
+
+07. Sortowanie tablicy asocjacyjnej w porządku malejącym, zgodnie z wartością
+
+08. Sortowanie tablicy asocjacyjnej w porządku malejącym, zgodnie z kluczem

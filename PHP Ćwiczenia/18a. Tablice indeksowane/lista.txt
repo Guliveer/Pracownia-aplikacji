@@ -1,0 +1,3 @@
+01. Tworzy indeksowaną tablicę o nazwie $cars, przypisuje do niej trzy elementy, a następnie drukuje tekst zawierający wartości tablicy
+
+02. Wyświetlenie wszystkich elementów listy, używają pętli for

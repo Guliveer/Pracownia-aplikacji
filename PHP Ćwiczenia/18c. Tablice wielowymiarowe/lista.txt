@@ -1,0 +1,3 @@
+01. Dostęp do elementów tablicy $cars - należy wskazać dwa indeksy (wiersz i kolumnę)
+
+02. Umieszczenie pętli for wewnątrz pętli for,, aby uzyskać elementy tablicy $cars. Należy dodatkowo wskazać dwa indeksy

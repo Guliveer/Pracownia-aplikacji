@@ -1,0 +1,3 @@
+01. Formularz z dwoma polami wejściowymi i przyciskiem przesyłania (POST)
+
+02. Formularz z dwoma polami wejściowymi i przyciskiem przesyłania (GET)

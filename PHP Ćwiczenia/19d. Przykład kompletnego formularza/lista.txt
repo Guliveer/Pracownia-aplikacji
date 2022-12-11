@@ -1,0 +1,1 @@
+01. Wylistowanie wszystkich wprowadzonych danych do kompletnego formularza

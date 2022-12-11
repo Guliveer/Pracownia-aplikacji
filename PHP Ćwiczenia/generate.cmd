@@ -10,9 +10,6 @@ set /p "count=>"
 cls
 
 mkdir "%nazwa%"
-echo. 1> "%nazwa%/lista.txt"
-echo lista.txt has been created
-echo.
 
 setlocal EnableDelayedExpansion
 for /L %%i in (1, 1, %count%) do (
@@ -23,10 +20,6 @@ for /L %%i in (1, 1, %count%) do (
      
      echo. 1> "%nazwa%/!formattedValue:~-2!/index.php"
      echo !formattedValue:~-2!/index.php has been created
-
-     echo !formattedValue:~-2!. >> "%nazwa%/lista.txt"
-     echo. >> "%nazwa%/lista.txt"
-     echo Added line !formattedValue:~-2!
 
      echo.
 )

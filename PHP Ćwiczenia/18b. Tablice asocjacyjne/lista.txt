@@ -1,0 +1,3 @@
+01. Wyświetlenie elementu tablicy po nazwie klucza
+
+02. Przejście przez pętlę i wydrukowanie wszystkich wartości tablicy asocjacyjnej, używając pętli for each

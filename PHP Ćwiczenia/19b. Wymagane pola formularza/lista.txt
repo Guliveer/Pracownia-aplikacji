@@ -1,0 +1,1 @@
+01. Wyświetla komunikat o błędzie, jeśli nie wypełniono pola

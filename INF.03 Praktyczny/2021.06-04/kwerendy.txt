@@ -1,0 +1,7 @@
+01. SELECT id, imie, nazwisko, rok_urodzenia, zdjecie FROM osoby LIMIT 30;
+
+02. SELECT imie, nazwisko, rok_urodzenia, opis, zdjecie, nazwa FROM osoby, hobby WHERE osoby.id = 10 AND osoby.Hobby_id = hobby.id;
+
+03. SELECT AVG(rok_urodzenia), MIN(rok_urodzenia), MAX(rok_urodzenia) FROM osoby;
+
+04. UPDATE osoby SET opis = 'gra na gitarze' WHERE Hobby_id = 4;

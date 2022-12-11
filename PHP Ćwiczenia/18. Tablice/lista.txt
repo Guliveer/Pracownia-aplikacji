@@ -1,0 +1,3 @@
+01. Tablica przechowuje wiele wartości w jednej zmiennej
+
+02. Funkcja count() służy do zwracania długości (liczby elementów) tablicy

@@ -17,9 +17,9 @@ def clear():
 
 def MainFunc():
     clear()
-    urlToScrape=input("Which URL you want me to scrap examples from?\n> ")
-    clear()
     pathToSave=input("Where do you want me to save files?\nWrite '.' if in the place from where you executed the program.\n> ")
+    clear()
+    urlToScrape=input("Which URL you want me to scrap examples from?\n> ")
     clear()
     finalList=TakingAllURLsOfExamples(urlToScrape)
     CreatingFolders(finalList, pathToSave)
@@ -31,7 +31,7 @@ def TakingAllURLsOfExamples(urlMain):
     page=requests.get(urlMain, headers=headers).text
     soup=bs(page, 'html.parser')
     listOfURLs=[item.get("href") for item in soup.find_all("a", class_="w3-btn")]
-    urlFinal = [x for x in listOfURLs if x.startswith('phptryit.asp?filename=')]
+    urlFinal = [x for x in listOfURLs if (x.startswith('phptryit.asp?filename=') or x.startswith('showphp.php?filename='))]
     domain="https://www.w3schools.com/php/"
     finalList=[domain+s for s in urlFinal]
     print(f'{len(finalList)} examples found', finalList)
